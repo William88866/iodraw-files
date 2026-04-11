@@ -153,8 +153,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCXBw4Sp1UIA01tLmGg4-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="254" width="40" height="26" as="geometry" />
+        <mxCell id="LCXBw4Sp1UIA01tLmGg4-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="254" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
