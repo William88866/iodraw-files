@@ -71,7 +71,7 @@
           <mxGeometry x="20" y="100" width="130" height="164.41" as="geometry" />
         </mxCell>
         <mxCell id="final_ok" value="最终结果&#xa;非空?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="653" width="100" height="80" as="geometry" />
+          <mxGeometry x="1120" y="653" width="118" height="104" as="geometry" />
         </mxCell>
         <mxCell id="final_text" value="最终有效&#xa;文本输出" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="620" width="120" height="50" as="geometry" />
@@ -95,6 +95,12 @@
             <Array as="points">
               <mxPoint x="355" y="322" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCXBw4Sp1UIA01tLmGg4-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="merge_wrap">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="484" as="sourcePoint" />
+            <mxPoint x="850" y="434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
