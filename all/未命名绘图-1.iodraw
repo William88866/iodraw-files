@@ -22,9 +22,6 @@
         <mxCell id="g_gate_title" value="外层质量门禁系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g_gate_sub" value="确保最小可运行性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="340" width="240" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="g_syntax" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;语法门禁：&lt;br&gt;可编译性基线校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="330" y="385" width="160" height="250" as="geometry" />
         </mxCell>
@@ -96,18 +93,6 @@
         </mxCell>
         <mxCell id="g_opt_2" value="入口回退扫描&#xa;入口回退&#xa;子目录脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_opt">
           <mxGeometry x="199.60526315789474" y="59.23076923076923" width="146.05263157894737" height="101.53846153846153" as="geometry" />
-        </mxCell>
-        <mxCell id="g_legend" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;图例&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="695" width="200" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="g_leg_1" value="处理区块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="g_legend">
-          <mxGeometry x="35" y="45" width="130" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="g_leg_2" value="特殊策略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="g_legend">
-          <mxGeometry x="35" y="88" width="130" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="g_leg_3" value="数据流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=14;" vertex="1" parent="g_legend">
-          <mxGeometry x="35" y="131" width="130" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
