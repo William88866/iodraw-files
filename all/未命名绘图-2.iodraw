@@ -1,14 +1,17 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ek8ErpltgPUSbnf6Lsie">
-    <mxGraphModel dx="1709" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tip" value="模块素材区：这些模块可导入后手动拖动排版" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="820" width="420" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="C9uSTEXf1ApDBloXLai--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="input_paper" target="cond_trigger">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="input_paper" value="Input Paper&#xa;Data tensor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="150" height="180" as="geometry" />
+          <mxGeometry x="17" y="230" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cond_trigger" value="条件触发&#xa;与回退" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=17;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="275" width="120" height="90" as="geometry" />
@@ -23,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="len_text" value="文档长度阈值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="188" y="434" width="170" height="30" as="geometry" />
+          <mxGeometry x="190" y="435" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="runtime_wrap" value="运行链路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=20;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="390" y="205" width="1280" height="365" as="geometry" />
