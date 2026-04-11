@@ -131,7 +131,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C9uSTEXf1ApDBloXLai--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="budget_top_inner" target="budget_wrap">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1221" y="69" />
+              <mxPoint x="1221" y="69" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
