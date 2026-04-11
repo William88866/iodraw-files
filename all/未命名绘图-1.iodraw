@@ -131,10 +131,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e9" value="支撑入口门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" parent="1" source="nest" target="entry" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="532" />
+              <mxPoint x="790" y="532" />
+              <mxPoint x="790" y="445" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e10" value="支撑入口门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" parent="1" source="fallback" target="entry" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="561" />
+              <mxPoint x="640" y="561" />
+              <mxPoint x="640" y="445" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="report" target="decision" edge="1">
           <mxGeometry relative="1" as="geometry" />
