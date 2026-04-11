@@ -92,7 +92,7 @@
           <mxGeometry x="428" y="369.5" width="198.24" height="176.55" as="geometry" />
         </mxCell>
         <mxCell id="full_read" value="全文读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="full_wrap">
-          <mxGeometry x="4.85688" y="68.6597153726927" width="100.09370823529413" height="74.54305692546147" as="geometry" />
+          <mxGeometry x="39.996880000000004" y="70.4997153726927" width="100.09370823529413" height="74.54305692546147" as="geometry" />
         </mxCell>
         <mxCell id="full_read_small" value="全文读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="1419" y="915.9975763962066" width="104.2962962962963" height="33.176923076923075" as="geometry" />
