@@ -55,28 +55,28 @@
           <mxGeometry x="243" y="511" width="580" height="102" as="geometry" />
         </mxCell>
         <mxCell id="main_select" value="主结果选择逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=22;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="860" y="372" width="320" height="270" as="geometry" />
+          <mxGeometry x="860" y="372" width="318" height="270" as="geometry" />
         </mxCell>
         <mxCell id="main_select_1" value="主结果 T = Markdown结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="main_select">
-          <mxGeometry x="32.94117647058823" y="55" width="254.11764705882354" height="42" as="geometry" />
+          <mxGeometry x="32.73529411764706" y="55" width="252.52941176470588" height="42" as="geometry" />
         </mxCell>
         <mxCell id="main_select_1_desc" value="当模式为 hybrid 且&#xa;Markdown结果有效时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="main_select">
-          <mxGeometry x="32.94117647058823" y="105" width="254.11764705882354" height="50" as="geometry" />
+          <mxGeometry x="32.73529411764706" y="105" width="252.52941176470588" height="50" as="geometry" />
         </mxCell>
         <mxCell id="main_select_2" value="主结果 T = Native结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="main_select">
-          <mxGeometry x="32.94117647058823" y="165" width="254.11764705882354" height="42" as="geometry" />
+          <mxGeometry x="32.73529411764706" y="165" width="252.52941176470588" height="42" as="geometry" />
         </mxCell>
         <mxCell id="main_select_2_desc" value="当 Markdown结果无效或&#xa;当前模式为 native时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="main_select">
-          <mxGeometry x="32.94117647058823" y="215" width="254.11764705882354" height="45" as="geometry" />
+          <mxGeometry x="32.73529411764706" y="215" width="252.52941176470588" height="45" as="geometry" />
         </mxCell>
         <mxCell id="output_wrap" value="统一输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=22;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1297" y="289" width="210" height="220" as="geometry" />
+          <mxGeometry x="1241" y="291" width="182" height="220" as="geometry" />
         </mxCell>
         <mxCell id="output_page" value="统一的页面&#xa;文本集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="output_wrap">
-          <mxGeometry x="30" y="55" width="150" height="60" as="geometry" />
+          <mxGeometry x="26" y="55" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="output_route" value="记录解析&#xa;主路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="output_wrap">
-          <mxGeometry x="30" y="135" width="150" height="55" as="geometry" />
+          <mxGeometry x="26" y="135" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="NmwzaURmGnwBA7lS9m6A-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="input_wrap" target="mode_init">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
