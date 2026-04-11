@@ -35,7 +35,7 @@
           <mxGeometry x="18.962962962962962" y="31.59" width="635.2592592592592" height="148.66" as="geometry" />
         </mxCell>
         <mxCell id="seg_slices" value="语义分段与&#xa;片段建模&#xa;Content-aware&#xa;slices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=17;fontStyle=1;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="16.719287171229197" y="39.35" width="158.2071755233494" height="78.7" as="geometry" />
+          <mxGeometry x="16.72" y="17" width="158.21" height="101.05" as="geometry" />
         </mxCell>
         <mxCell id="seg_tags" value="算法&#xa;方法&#xa;实现&#xa;实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="seg_ctx_wrap">
           <mxGeometry x="193.33880543548887" y="43.7203993904338" width="100.30409356725144" height="69.96063909777558" as="geometry" />
