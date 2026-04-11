@@ -29,7 +29,7 @@
           <mxGeometry x="190" y="435" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="semantic_top" value="语义分段与片段建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="509" y="-105" width="420" height="160" as="geometry" />
+          <mxGeometry x="525" y="-96" width="420" height="160" as="geometry" />
         </mxCell>
         <mxCell id="semantic_left" value="内容类别&#xa;算法&#xa;方法&#xa;实现&#xa;实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="semantic_top">
           <mxGeometry x="20" y="46.666666666666664" width="150" height="93.33333333333333" as="geometry" />
@@ -126,6 +126,9 @@
             <mxPoint x="1065" y="327" as="sourcePoint" />
             <mxPoint x="1115" y="277" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C9uSTEXf1ApDBloXLai--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="semantic_right" target="seg_ctx_wrap">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
