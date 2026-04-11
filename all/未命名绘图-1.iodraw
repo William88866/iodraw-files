@@ -88,7 +88,7 @@
           <mxGeometry x="32" y="215" width="138" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g_policy" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：advisory 与 blocking&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="240" y="675" width="360" height="225" as="geometry" />
+          <mxGeometry x="90" y="690" width="360" height="225" as="geometry" />
         </mxCell>
         <mxCell id="g_policy_sel" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=16;fontStyle=1;" vertex="1" parent="g_policy">
           <mxGeometry x="23.684210526315788" y="60.57692307692308" width="94.73684210526315" height="103.84615384615385" as="geometry" />
