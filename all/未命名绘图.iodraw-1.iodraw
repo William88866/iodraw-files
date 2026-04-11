@@ -38,7 +38,7 @@
           <mxGeometry x="70" y="60" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="extract_ok2" value="提取成功&#xa;且非空?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="982" y="-48" width="110" height="80" as="geometry" />
+          <mxGeometry x="898" y="449" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="binary_repair_wrap" value="PDF 二进制内容字符串恢复" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="609" width="360" height="180" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="75" y="60" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="compare_wrap" value="提取结果对比与选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1279" y="240" width="220" height="220" as="geometry" />
+          <mxGeometry x="1064" y="346" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="compare_inner" value="一进制结果&#xa;更优?&#xa;&#xa;一进制结果&#xa;更优?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;" vertex="1" parent="compare_wrap">
           <mxGeometry x="50" y="55" width="120" height="120" as="geometry" />
