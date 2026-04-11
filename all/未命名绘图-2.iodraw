@@ -13,11 +13,17 @@
         <mxCell id="cond_trigger" value="条件触发&#xa;与回退" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=17;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="275" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="C9uSTEXf1ApDBloXLai--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cfg_text" target="cond_trigger">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cfg_text" value="配置项&#xa;Config" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="215" y="165" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="C9uSTEXf1ApDBloXLai--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="len_text" target="cond_trigger">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="len_text" value="文档长度阈值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="190" y="380" width="170" height="30" as="geometry" />
+          <mxGeometry x="188" y="434" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="runtime_wrap" value="运行链路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=20;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="390" y="205" width="1280" height="365" as="geometry" />
