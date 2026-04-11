@@ -7,6 +7,21 @@
         <mxCell id="tip" value="模块素材区：这些模块可导入后手动拖动排版" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="420" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="g_input" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;输入：生成产物&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="240" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="g_input_1" value="project structure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
+          <mxGeometry x="20" y="55" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g_input_4" value="project data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
+          <mxGeometry x="125" y="120" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g_input_5" value="requirements.txt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=12;" vertex="1" parent="g_input">
+          <mxGeometry x="20" y="185" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g_input_6" value="run.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
+          <mxGeometry x="125" y="185" width="85" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="g_gate_title" value="外层质量门禁系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="320" height="50" as="geometry" />
         </mxCell>
