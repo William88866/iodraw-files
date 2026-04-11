@@ -78,12 +78,6 @@
         <mxCell id="output_route" value="记录解析&#xa;主路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="output_wrap">
           <mxGeometry x="30" y="135" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="tensor1_text" value="Tensor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="100" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="tensor1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;" vertex="1" parent="1">
-          <mxGeometry x="470" y="120" width="90" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="tensor2_text" value="Tensor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="70" width="100" height="24" as="geometry" />
         </mxCell>
