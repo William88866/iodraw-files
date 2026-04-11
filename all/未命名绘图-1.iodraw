@@ -10,9 +10,6 @@
         <mxCell id="g_input" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;输入：生成产物&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="240" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="g_input_1" value="project structure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
-          <mxGeometry x="20" y="55" width="85" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="g_input_4" value="project data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
           <mxGeometry x="125" y="120" width="85" height="50" as="geometry" />
         </mxCell>
