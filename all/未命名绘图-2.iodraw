@@ -23,25 +23,25 @@
           <mxGeometry x="390" y="205" width="1080" height="405" as="geometry" />
         </mxCell>
         <mxCell id="seg_ctx_wrap" value="分段检索上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="runtime_wrap">
-          <mxGeometry x="20" y="35.04807692307693" width="760" height="132.40384615384616" as="geometry" />
+          <mxGeometry x="20" y="35.05" width="760" height="164.95" as="geometry" />
         </mxCell>
         <mxCell id="seg_slices" value="语义分段与&#xa;片段建模&#xa;Content-aware&#xa;slices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=17;fontStyle=1;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="20" y="35.04807692307693" width="170" height="70.09615384615385" as="geometry" />
+          <mxGeometry x="20" y="43.66323529411765" width="170" height="87.3264705882353" as="geometry" />
         </mxCell>
         <mxCell id="seg_tags" value="算法&#xa;方法&#xa;实现&#xa;实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="230" y="38.94230769230769" width="90" height="62.30769230769231" as="geometry" />
+          <mxGeometry x="230" y="48.514705882352935" width="90" height="77.6235294117647" as="geometry" />
         </mxCell>
         <mxCell id="seg_pool" value="片段池" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="380" y="35.04807692307693" width="80" height="70.09615384615385" as="geometry" />
+          <mxGeometry x="380" y="43.66323529411765" width="80" height="87.3264705882353" as="geometry" />
         </mxCell>
         <mxCell id="task_sort" value="任务导向检索&#xa;过滤和排行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;fontStyle=1;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="500" y="35.04807692307693" width="160" height="70.09615384615385" as="geometry" />
+          <mxGeometry x="500" y="43.66323529411765" width="160" height="87.3264705882353" as="geometry" />
         </mxCell>
         <mxCell id="budget_wrap" value="上下文预算控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="runtime_wrap">
-          <mxGeometry x="800" y="35.04807692307693" width="250" height="132.40384615384616" as="geometry" />
+          <mxGeometry x="800" y="35.05" width="250" height="164.95" as="geometry" />
         </mxCell>
         <mxCell id="budget_inner" value="优先至前相关性&#xa;字符预算 / 片段数量&#xa;受控截断&#xa;Color budget" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=15;" vertex="1" parent="budget_wrap">
-          <mxGeometry x="25" y="35.04807692307693" width="200" height="70.09615384615385" as="geometry" />
+          <mxGeometry x="25" y="43.66323529411765" width="200" height="87.3264705882353" as="geometry" />
         </mxCell>
         <mxCell id="plan_wrap" value="与规划流程整合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="runtime_wrap">
           <mxGeometry x="1080" y="35.04807692307693" width="180" height="186.92307692307693" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry x="1110" y="257.0192307692308" width="110" height="29.596153846153847" as="geometry" />
         </mxCell>
         <mxCell id="full_wrap" value="传统全文处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="runtime_wrap">
-          <mxGeometry x="20" y="202.5" width="1020" height="127.5" as="geometry" />
+          <mxGeometry x="20" y="202.5" width="1020" height="157.5" as="geometry" />
         </mxCell>
         <mxCell id="full_read" value="全文读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="full_wrap">
-          <mxGeometry x="25" y="49.583333333333336" width="120" height="53.833333333333336" as="geometry" />
+          <mxGeometry x="25" y="61.25000000000001" width="120" height="66.5" as="geometry" />
         </mxCell>
         <mxCell id="semantic_top" value="语义分段与片段建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="420" y="40" width="420" height="120" as="geometry" />
