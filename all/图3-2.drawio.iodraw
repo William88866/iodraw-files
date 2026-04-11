@@ -35,7 +35,7 @@
           <mxGeometry x="497" y="-45" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="page_norm" value="页面信息切分&#xa;与规范化处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="792" y="-55" width="155" height="150" as="geometry" />
+          <mxGeometry x="823" y="-33" width="155" height="150" as="geometry" />
         </mxCell>
         <mxCell id="chapter_extract" value="章节识别与结&#xa;构化抽取阶段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1011" y="-55" width="150" height="150" as="geometry" />
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NmwzaURmGnwBA7lS9m6A-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="725" y="-27" width="36" height="34" as="geometry" />
+          <mxGeometry x="656" y="-23" width="36" height="34" as="geometry" />
         </mxCell>
         <mxCell id="NmwzaURmGnwBA7lS9m6A-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="642" y="139" width="37" height="35" as="geometry" />
