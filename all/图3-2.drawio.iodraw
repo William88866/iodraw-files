@@ -35,28 +35,28 @@
           <mxGeometry x="1110" y="195" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="trigger_flag" value="触发&#xa;标记" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="683" y="375" width="90" height="90" as="geometry" />
+          <mxGeometry x="706" y="373" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="native_path" value="原生解析路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=24;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="243" y="511" width="580" height="102" as="geometry" />
         </mxCell>
         <mxCell id="main_select" value="主结果选择逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=22;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="370" width="340" height="270" as="geometry" />
+          <mxGeometry x="912" y="370" width="458" height="270" as="geometry" />
         </mxCell>
         <mxCell id="main_select_1" value="主结果 T = Markdown结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="main_select">
-          <mxGeometry x="35" y="55" width="270" height="42" as="geometry" />
+          <mxGeometry x="47.14705882352941" y="55" width="363.7058823529412" height="42" as="geometry" />
         </mxCell>
         <mxCell id="main_select_1_desc" value="当模式为 hybrid 且&#xa;Markdown结果有效时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="main_select">
-          <mxGeometry x="35" y="105" width="270" height="50" as="geometry" />
+          <mxGeometry x="47.14705882352941" y="105" width="363.7058823529412" height="50" as="geometry" />
         </mxCell>
         <mxCell id="main_select_2" value="主结果 T = Native结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="main_select">
-          <mxGeometry x="35" y="165" width="270" height="42" as="geometry" />
+          <mxGeometry x="47.14705882352941" y="165" width="363.7058823529412" height="42" as="geometry" />
         </mxCell>
         <mxCell id="main_select_2_desc" value="当 Markdown结果无效或&#xa;当前模式为 native时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="main_select">
-          <mxGeometry x="35" y="215" width="270" height="45" as="geometry" />
+          <mxGeometry x="47.14705882352941" y="215" width="363.7058823529412" height="45" as="geometry" />
         </mxCell>
         <mxCell id="output_wrap" value="统一输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=22;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="370" width="210" height="220" as="geometry" />
+          <mxGeometry x="1453" y="298" width="210" height="220" as="geometry" />
         </mxCell>
         <mxCell id="output_page" value="统一的页面&#xa;文本集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="output_wrap">
           <mxGeometry x="30" y="55" width="150" height="60" as="geometry" />
