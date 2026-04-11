@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="hCJFVleAYPVdQy2nhswZ">
-    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,16 +56,16 @@
           <mxGeometry x="1180" y="210" width="170" height="290" as="geometry" />
         </mxCell>
         <mxCell id="merge_inner" value="局部写入&#xa;extraction_source 字段&#xa;pypdf_markdown&#xa;native_direct&#xa;native_fallback" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="merge_wrap">
-          <mxGeometry x="20" y="119.41176470588235" width="130" height="145" as="geometry" />
+          <mxGeometry x="20" y="100" width="130" height="164.41" as="geometry" />
         </mxCell>
         <mxCell id="final_ok" value="最终结果&#xa;非空?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="245" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="final_text" value="最终有效&#xa;文本输出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="225" width="120" height="50" as="geometry" />
+          <mxGeometry x="1490" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="empty_throw" value="空内容&#xa;异常抛出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="325" width="120" height="50" as="geometry" />
+          <mxGeometry x="1490" y="410" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
