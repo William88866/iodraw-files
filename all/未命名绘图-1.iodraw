@@ -63,10 +63,10 @@
           <mxGeometry x="37.8" y="133" width="136.2" height="42" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s2" value="检查项明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="37.8" y="188.99555555555557" width="109.2" height="32.5" as="geometry" />
+          <mxGeometry x="37.8" y="189" width="136.2" height="42" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s3" value="失败项摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="50.4" y="270.8333333333333" width="109.2" height="32.5" as="geometry" />
+          <mxGeometry x="40" y="247.00333333333333" width="109.2" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="g_action" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;交付决策与收口动作&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="940" y="685" width="200" height="240" as="geometry" />
