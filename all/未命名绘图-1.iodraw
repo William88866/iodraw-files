@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kQ0DLpsuWasoLRp_zkhE">
-    <mxGraphModel dx="1733" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="970" y="300" width="210" height="360" as="geometry" />
         </mxCell>
         <mxCell id="g_report_title" value="质量报告与可观测性设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#cbd5e1;fontSize=14;fontStyle=1;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="29.400000000000002" y="50" width="151.2" height="36" as="geometry" />
+          <mxGeometry x="19.7" y="50" width="170.6" height="36" as="geometry" />
         </mxCell>
         <mxCell id="g_report_main" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#64748b;fontSize=16;fontStyle=1;" vertex="1" parent="g_report_wrap">
           <mxGeometry x="37.8" y="110" width="134.4" height="48" as="geometry" />
@@ -68,13 +68,13 @@
           <mxGeometry x="50.4" y="300" width="109.2" height="36" as="geometry" />
         </mxCell>
         <mxCell id="g_action" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;交付决策与收口动作&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="300" width="250" height="360" as="geometry" />
+          <mxGeometry x="1290" y="300" width="220" height="360" as="geometry" />
         </mxCell>
         <mxCell id="g_action_1" value="交付端收口&#xa;项目导出 / 预览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
-          <mxGeometry x="40" y="95" width="170" height="70" as="geometry" />
+          <mxGeometry x="35.2" y="95" width="149.6" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g_action_2" value="问题定位与修复&#xa;错误溯因 / 工程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
-          <mxGeometry x="40" y="210" width="170" height="70" as="geometry" />
+          <mxGeometry x="35.2" y="210" width="149.6" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g_policy" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：advisory 与 blocking&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="240" y="675" width="360" height="225" as="geometry" />
