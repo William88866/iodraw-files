@@ -37,7 +37,7 @@
         <mxCell id="semantic_left" value="内容类别&#xa;算法&#xa;方法&#xa;实现&#xa;实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="semantic_top">
           <mxGeometry x="20" y="46.666666666666664" width="150" height="93.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="semantic_right" value="分段指标&#xa;关键词&#xa;相关度分数&#xa;字符窗口&#xa;长度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="semantic_top">
+        <mxCell id="semantic_right" value="分段指标&lt;br&gt;关键词&lt;br&gt;相关度分数&lt;br&gt;字符窗口&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="semantic_top">
           <mxGeometry x="220" y="46.666666666666664" width="160" height="93.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="budget_top" value="上下文预算控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
