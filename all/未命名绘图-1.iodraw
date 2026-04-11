@@ -53,11 +53,11 @@
         <mxCell id="g_entry_2" value="入口扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_entry">
           <mxGeometry x="32.72727272727273" y="145" width="114.54545454545453" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="g_report_wrap" value="汇总质量结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="g_report_wrap" value="汇总质量结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="935" y="332" width="210" height="325" as="geometry" />
         </mxCell>
         <mxCell id="g_report_main" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#64748b;fontSize=16;fontStyle=1;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="35" y="26.995555555555555" width="134.4" height="43.333333333333336" as="geometry" />
+          <mxGeometry x="35" y="27" width="134.4" height="57" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s1" value="整体状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="g_report_wrap">
           <mxGeometry x="50.4" y="189.58333333333334" width="109.2" height="32.5" as="geometry" />
