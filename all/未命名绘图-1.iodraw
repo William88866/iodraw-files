@@ -49,7 +49,7 @@
         <mxCell id="g_dep_2" value="依赖声明完整性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_dep">
           <mxGeometry x="40" y="145" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="g_entry" value="入口门禁：&#xa;可执行入口存在性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="g_entry" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;入口门禁：&lt;br&gt;可执行入口存在性校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="170" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_entry_1" value="入口&#xa;路径扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_entry">
@@ -68,13 +68,13 @@
           <mxGeometry x="45" y="110" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s1" value="整体状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="60" y="187" width="130" height="36" as="geometry" />
+          <mxGeometry x="60" y="210" width="130" height="36" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s2" value="检查项明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="g_report_wrap">
           <mxGeometry x="60" y="254" width="130" height="36" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s3" value="失败项摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="60" y="290" width="130" height="36" as="geometry" />
+          <mxGeometry x="60" y="300" width="130" height="36" as="geometry" />
         </mxCell>
         <mxCell id="g_action" value="交付决策与收口动作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="60" width="250" height="360" as="geometry" />
