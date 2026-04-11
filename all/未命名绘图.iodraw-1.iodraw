@@ -1,0 +1,76 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="hCJFVleAYPVdQy2nhswZ">
+    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tip" value="模块素材区：这些模块可导入后手动拖动排版" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pdf_input" value="PDF 文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="basic_prog" value="基本编程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=24;fontStyle=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="80" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="fitz_block" value="fitz&#xa;文本块&#xa;提取算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pypdf_block" value="pypdf&#xa;页面提取路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="binary_block" value="二进制&#xa;补救路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="noise_wrap" value="文本块提取与噪声过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="20" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="noise_inner" value="非外片段&#xa;短遮片段&#xa;噪声片段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="noise_wrap">
+          <mxGeometry x="120" y="45" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cube_mid" value="" style="shape=cube;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#94a3b8;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="extract_ok1" value="提取成功?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=17;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="page_clean_wrap" value="页面提取、清洗与拼接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="page_clean_inner" value="页面提取、清洗与拼接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="page_clean_wrap">
+          <mxGeometry x="70" y="60" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="extract_ok2" value="提取成功&#xa;且非空?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="315" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="binary_repair_wrap" value="PDF 二进制内容字符串恢复" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="470" y="470" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="binary_repair_inner" value="PDF 二进制字符串恢复&#xa;Binary stream" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="binary_repair_wrap">
+          <mxGeometry x="75" y="60" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="compare_wrap" value="提取结果对比与选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="900" y="250" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="compare_inner" value="一进制结果&#xa;更优?&#xa;&#xa;一进制结果&#xa;更优?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;" vertex="1" parent="compare_wrap">
+          <mxGeometry x="50" y="55" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="merge_wrap" value="提取结果&#xa;聚合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="210" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="merge_inner" value="局部写入&#xa;extraction_source 字段&#xa;pypdf_markdown&#xa;native_direct&#xa;native_fallback" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="merge_wrap">
+          <mxGeometry x="20" y="70" width="130" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="final_ok" value="最终结果&#xa;非空?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="245" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="final_text" value="最终有效&#xa;文本输出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="225" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="empty_throw" value="空内容&#xa;异常抛出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="325" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
