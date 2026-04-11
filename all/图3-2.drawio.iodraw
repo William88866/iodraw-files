@@ -28,6 +28,9 @@
         <mxCell id="NmwzaURmGnwBA7lS9m6A-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="md_ok" target="page_norm">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NmwzaURmGnwBA7lS9m6A-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="md_ok" target="trigger_flag">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="md_ok" value="Markdown&#xa;预处理成功?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="661" y="205" width="150" height="130" as="geometry" />
         </mxCell>
@@ -102,6 +105,9 @@
             <mxPoint x="852" y="413" as="sourcePoint" />
             <mxPoint x="902" y="363" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NmwzaURmGnwBA7lS9m6A-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="814" y="227" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
