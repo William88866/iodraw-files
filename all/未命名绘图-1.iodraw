@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="60" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g_input_5" value="requirements.txt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=12;" vertex="1" parent="g_input">
-          <mxGeometry x="70" y="125" width="85" height="50" as="geometry" />
+          <mxGeometry x="70" y="125" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g_input_6" value="code file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
           <mxGeometry x="70" y="195" width="85" height="50" as="geometry" />
