@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="-148" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pdf_input" value="PDF 文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="260" width="120" height="120" as="geometry" />
+          <mxGeometry x="20" y="375" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="basic_prog" value="基本编程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=24;fontStyle=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="80" height="624" as="geometry" />
