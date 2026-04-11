@@ -26,7 +26,7 @@
           <mxGeometry x="40" y="179" width="400" height="52" as="geometry" />
         </mxCell>
         <mxCell id="optBox" value="关键工程优化" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#e8f7ef;strokeColor=#7bb59b;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="65" y="550" width="260" height="170" as="geometry" />
+          <mxGeometry x="40" y="590" width="260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="nest" value="嵌套项目识别&#xa;根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff5ea;strokeColor=#7bb59b;fontSize=14;align=center;verticalAlign=middle;" parent="optBox" vertex="1">
           <mxGeometry x="20" y="42" width="220" height="45" as="geometry" />
