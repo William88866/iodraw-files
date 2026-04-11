@@ -96,7 +96,7 @@
         <mxCell id="NmwzaURmGnwBA7lS9m6A-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="744" y="335" width="37" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="NmwzaURmGnwBA7lS9m6A-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NmwzaURmGnwBA7lS9m6A-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.174;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mode_init" target="native_path">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="714" y="432" as="sourcePoint" />
             <mxPoint x="764" y="382" as="targetPoint" />
