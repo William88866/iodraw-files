@@ -64,7 +64,7 @@
         <mxCell id="full_read_small" value="全文读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="runtime_wrap">
           <mxGeometry x="1110" y="231.6346153846154" width="110" height="26.673076923076923" as="geometry" />
         </mxCell>
-        <mxCell id="full_wrap" value="传统全文处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="runtime_wrap">
+        <mxCell id="full_wrap" value="传统全文处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="runtime_wrap">
           <mxGeometry x="20" y="182.5" width="1020" height="141.94444444444446" as="geometry" />
         </mxCell>
         <mxCell id="full_read" value="全文读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="full_wrap">
