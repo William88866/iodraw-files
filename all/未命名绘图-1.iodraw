@@ -80,6 +80,14 @@
         <mxCell id="g_action_2" value="问题定位与修复&#xa;错误溯因 / 工程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
           <mxGeometry x="32" y="143.33" width="138" height="66.67" as="geometry" />
         </mxCell>
+        <mxCell id="L4uR_4W4lFajuHVVk__r-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_policy" target="g_syntax">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="660" />
+              <mxPoint x="410" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g_policy" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：advisory 与 blocking&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="690" width="360" height="225" as="geometry" />
         </mxCell>
@@ -91,6 +99,9 @@
         </mxCell>
         <mxCell id="g_policy_block" value="blocking&#xa;（阻断模式）&#xa;Strict Acceptance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="g_policy">
           <mxGeometry x="156.3157894736842" y="129.80769230769232" width="161.05263157894737" height="51.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="L4uR_4W4lFajuHVVk__r-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g_opt" target="g_entry">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g_opt" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;2）关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="695" width="370" height="220" as="geometry" />
