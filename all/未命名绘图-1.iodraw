@@ -1,0 +1,124 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="kQ0DLpsuWasoLRp_zkhE">
+    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="外层质量门禁系统执行链路图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="20" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="input" value="输入产物&#xa;项目目录 / Python 文件&#xa;requirements.txt / 启动脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=16;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="250" y="65" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="trigger" value="触发外层质量门禁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=16;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="305" y="165" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gateBox" value="三类核心门禁" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#fff7d6;strokeColor=#d6c36f;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="170" y="240" width="480" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="syntax" value="语法门禁&#xa;逐文件语法检查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="gateBox" vertex="1">
+          <mxGeometry x="40" y="45" width="400" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="L4uR_4W4lFajuHVVk__r-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gateBox" source="deps" target="syntax">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deps" value="依赖门禁&#xa;检查依赖声明文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="gateBox" vertex="1">
+          <mxGeometry x="40" y="112" width="400" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="entry" value="入口门禁&#xa;检查可执行入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="gateBox" vertex="1">
+          <mxGeometry x="40" y="179" width="400" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="optBox" value="关键工程优化" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#e8f7ef;strokeColor=#7bb59b;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="65" y="550" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nest" value="嵌套项目识别&#xa;根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff5ea;strokeColor=#7bb59b;fontSize=14;align=center;verticalAlign=middle;" parent="optBox" vertex="1">
+          <mxGeometry x="20" y="42" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fallback" value="入口回退扫描&#xa;扫描子目录脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff5ea;strokeColor=#7bb59b;fontSize=14;align=center;verticalAlign=middle;" parent="optBox" vertex="1">
+          <mxGeometry x="20" y="100" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="reportBox" value="质量报告与可观测性" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#fff7d6;strokeColor=#d6c36f;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="385" y="550" width="370" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="report" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="reportBox" vertex="1">
+          <mxGeometry x="85" y="42" width="200" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="status" value="整体状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=14;align=center;verticalAlign=middle;" parent="reportBox" vertex="1">
+          <mxGeometry x="85" y="96" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="detail" value="检查项明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=14;align=center;verticalAlign=middle;" parent="reportBox" vertex="1">
+          <mxGeometry x="85" y="136" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="summary" value="失败摘要与归因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=14;align=center;verticalAlign=middle;" parent="reportBox" vertex="1">
+          <mxGeometry x="85" y="176" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="policyBox" value="双策略模式" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#ffe7d8;strokeColor=#d6a07b;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="190" y="790" width="440" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="decision" value="策略选择" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe7d8;strokeColor=#d6a07b;fontSize=15;align=center;verticalAlign=middle;" parent="policyBox" vertex="1">
+          <mxGeometry x="170" y="42" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="advisory" value="Advisory&#xa;告警但继续收口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe7d8;strokeColor=#d6a07b;fontSize=15;align=center;verticalAlign=middle;" parent="policyBox" vertex="1">
+          <mxGeometry x="35" y="120" width="150" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="blocking" value="Blocking&#xa;失败即阻断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe7d8;strokeColor=#d6a07b;fontSize=15;align=center;verticalAlign=middle;" parent="policyBox" vertex="1">
+          <mxGeometry x="255" y="120" width="150" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="policyBox" source="decision" target="advisory" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="policyBox" source="decision" target="blocking" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="outBox" value="交付决策与收口动作" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#f3f4f6;strokeColor=#9ca3af;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="170" y="995" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="deliver" value="交付收口&#xa;预览 / 导出 / 联调" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#9ca3af;fontSize=15;align=center;verticalAlign=middle;" parent="outBox" vertex="1">
+          <mxGeometry x="35" y="52" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="blockret" value="阻断返回&#xa;错误原因 / 修复线索 / 工程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#9ca3af;fontSize=15;align=center;verticalAlign=middle;" parent="outBox" vertex="1">
+          <mxGeometry x="265" y="52" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="input" target="trigger" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="trigger" target="syntax" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="trigger" target="deps" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="trigger" target="entry" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="syntax" target="report" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="deps" target="report" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="entry" target="report" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" value="支撑依赖门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" parent="1" source="nest" target="deps" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" value="支撑入口门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" parent="1" source="nest" target="entry" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" value="支撑入口门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" parent="1" source="fallback" target="entry" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="report" target="decision" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="advisory" target="deliver" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="blocking" target="blockret" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
