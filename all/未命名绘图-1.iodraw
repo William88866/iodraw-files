@@ -19,9 +19,6 @@
         <mxCell id="syntax" value="语法门禁&#xa;逐文件语法检查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="gateBox" vertex="1">
           <mxGeometry x="40" y="45" width="400" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="L4uR_4W4lFajuHVVk__r-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gateBox" source="deps" target="syntax">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="deps" value="依赖门禁&#xa;检查依赖声明文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="gateBox" vertex="1">
           <mxGeometry x="40" y="112" width="400" height="52" as="geometry" />
         </mxCell>
@@ -65,10 +62,18 @@
           <mxGeometry x="255" y="120" width="150" height="42" as="geometry" />
         </mxCell>
         <mxCell id="e12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="policyBox" source="decision" target="advisory" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="policyBox" source="decision" target="blocking" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="outBox" value="交付决策与收口动作" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#f3f4f6;strokeColor=#9ca3af;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
           <mxGeometry x="170" y="995" width="480" height="150" as="geometry" />
