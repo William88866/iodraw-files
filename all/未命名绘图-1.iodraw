@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_action" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;交付决策与收口动作&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="310" width="200" height="360" as="geometry" />
+          <mxGeometry x="910" y="700" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="g_action_1" value="交付端收口&#xa;项目导出 / 预览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
           <mxGeometry x="32" y="95" width="136" height="70" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="156.3157894736842" y="129.80769230769232" width="161.05263157894737" height="51.92307692307693" as="geometry" />
         </mxCell>
         <mxCell id="g_opt" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;2）关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="640" y="675" width="370" height="220" as="geometry" />
+          <mxGeometry x="500" y="695" width="370" height="220" as="geometry" />
         </mxCell>
         <mxCell id="g_opt_1" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_opt">
           <mxGeometry x="24.342105263157894" y="59.23076923076923" width="146.05263157894737" height="101.53846153846153" as="geometry" />
