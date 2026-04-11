@@ -53,10 +53,10 @@
           <mxGeometry x="50" y="55" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="merge_wrap" value="提取结果&#xa;聚合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=22;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="210" width="170" height="170" as="geometry" />
+          <mxGeometry x="1180" y="210" width="170" height="290" as="geometry" />
         </mxCell>
         <mxCell id="merge_inner" value="局部写入&#xa;extraction_source 字段&#xa;pypdf_markdown&#xa;native_direct&#xa;native_fallback" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="merge_wrap">
-          <mxGeometry x="20" y="70" width="130" height="85" as="geometry" />
+          <mxGeometry x="20" y="119.41176470588235" width="130" height="145" as="geometry" />
         </mxCell>
         <mxCell id="final_ok" value="最终结果&#xa;非空?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="245" width="100" height="80" as="geometry" />
