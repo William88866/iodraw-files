@@ -34,13 +34,13 @@
         <mxCell id="g_gate_sub" value="确保最小可运行性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="240" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="g_syntax" value="语法门禁：&#xa;可编译性基线校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="g_syntax" value="语法门禁：&#xa;可编译性基线校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_syntax_inner" value="Python&#xa;预编译校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_syntax">
           <mxGeometry x="40" y="95" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g_dep" value="依赖门禁：&#xa;依赖声明完整性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="g_dep" value="依赖门禁：&#xa;依赖声明完整性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="570" y="170" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_dep_1" value="文件&#xa;扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_dep">
@@ -49,7 +49,7 @@
         <mxCell id="g_dep_2" value="依赖声明完整性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_dep">
           <mxGeometry x="40" y="145" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="g_entry" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;入口门禁：&lt;br&gt;可执行入口存在性校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="g_entry" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;入口门禁：&lt;br&gt;可执行入口存在性校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="820" y="170" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_entry_1" value="入口&#xa;路径扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_entry">
