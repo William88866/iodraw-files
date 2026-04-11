@@ -65,7 +65,7 @@
           <mxGeometry x="966" y="348" width="191" height="220" as="geometry" />
         </mxCell>
         <mxCell id="compare_inner" value="一进制结果&#xa;更优?&#xa;&#xa;一进制结果&#xa;更优?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;" vertex="1" parent="compare_wrap">
-          <mxGeometry x="43.41" y="55" width="133.59" height="120" as="geometry" />
+          <mxGeometry x="7" y="31" width="170" height="177" as="geometry" />
         </mxCell>
         <mxCell id="LCXBw4Sp1UIA01tLmGg4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="merge_wrap" target="final_ok">
           <mxGeometry relative="1" as="geometry" />
