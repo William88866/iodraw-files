@@ -82,7 +82,7 @@
           <mxGeometry x="950" y="670" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="g_action_1" value="交付端收口&#xa;项目导出 / 预览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
-          <mxGeometry x="32" y="63.33333333333333" width="136" height="46.666666666666664" as="geometry" />
+          <mxGeometry x="32" y="63.33" width="136" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="g_action_2" value="问题定位与修复&#xa;错误溯因 / 工程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
           <mxGeometry x="32" y="143.33333333333331" width="138" height="46.666666666666664" as="geometry" />
