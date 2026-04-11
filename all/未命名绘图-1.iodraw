@@ -109,20 +109,14 @@
         <mxCell id="g_opt" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;2）关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="695" width="370" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="L4uR_4W4lFajuHVVk__r-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g_opt" source="g_opt_1" target="g_opt_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g_opt_1" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_opt">
           <mxGeometry x="24.342105263157894" y="59.23076923076923" width="146.05263157894737" height="101.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="g_opt_2" value="入口回退扫描&#xa;入口回退&#xa;子目录脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_opt">
           <mxGeometry x="199.60526315789474" y="59.23076923076923" width="146.05263157894737" height="101.53846153846153" as="geometry" />
-        </mxCell>
-        <mxCell id="L4uR_4W4lFajuHVVk__r-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="g_opt">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="215.39" y="113" as="sourcePoint" />
-            <mxPoint x="170.39" y="113" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="203.39" y="113" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="L4uR_4W4lFajuHVVk__r-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
