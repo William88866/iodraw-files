@@ -55,10 +55,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="seg_ctx_wrap" value="分段检索上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="seg_ctx_wrap" value="分段检索上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="437.0029629629629" y="125.00276712328764" width="635.2592592592592" height="184.90860273972604" as="geometry" />
         </mxCell>
-        <mxCell id="seg_slices" value="语义分段与&lt;br&gt;片段建模&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=17;fontStyle=1;align=center;" vertex="1" parent="seg_ctx_wrap">
+        <mxCell id="seg_slices" value="语义分段与&lt;br&gt;片段建模&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="seg_ctx_wrap">
           <mxGeometry x="16.72" y="29.6" width="158.21" height="91.4" as="geometry" />
         </mxCell>
         <mxCell id="seg_tags" value="算法&#xa;方法&#xa;实现&#xa;实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="seg_ctx_wrap">
