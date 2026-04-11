@@ -54,7 +54,7 @@
           <mxGeometry x="32.72727272727273" y="145" width="114.54545454545453" height="55" as="geometry" />
         </mxCell>
         <mxCell id="g_report_wrap" value="汇总质量结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="310" width="210" height="360" as="geometry" />
+          <mxGeometry x="950" y="275" width="210" height="360" as="geometry" />
         </mxCell>
         <mxCell id="g_report_title" value="质量报告与可观测性设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#cbd5e1;fontSize=14;fontStyle=1;" vertex="1" parent="g_report_wrap">
           <mxGeometry x="19.7" y="50" width="170.6" height="36" as="geometry" />
@@ -79,13 +79,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_action" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;交付决策与收口动作&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="910" y="700" width="200" height="360" as="geometry" />
+          <mxGeometry x="950" y="670" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="g_action_1" value="交付端收口&#xa;项目导出 / 预览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
-          <mxGeometry x="32" y="95" width="136" height="70" as="geometry" />
+          <mxGeometry x="32" y="63.33333333333333" width="136" height="46.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="g_action_2" value="问题定位与修复&#xa;错误溯因 / 工程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
-          <mxGeometry x="32" y="215" width="138" height="70" as="geometry" />
+          <mxGeometry x="32" y="143.33333333333331" width="138" height="46.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="g_policy" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：advisory 与 blocking&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="690" width="360" height="225" as="geometry" />
