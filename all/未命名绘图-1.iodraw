@@ -91,6 +91,9 @@
         <mxCell id="L4uR_4W4lFajuHVVk__r-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g_policy" source="g_policy_sel" target="g_policy_block">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="L4uR_4W4lFajuHVVk__r-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="g_policy" source="g_policy_sel" target="g_policy_adv">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g_policy_sel" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=16;fontStyle=1;" vertex="1" parent="g_policy">
           <mxGeometry x="23.684210526315788" y="60.57692307692308" width="94.73684210526315" height="103.84615384615385" as="geometry" />
         </mxCell>
@@ -146,6 +149,12 @@
           <mxGeometry x="880" y="462.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4uR_4W4lFajuHVVk__r-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619" y="618" as="sourcePoint" />
+            <mxPoint x="669" y="568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4uR_4W4lFajuHVVk__r-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="619" y="618" as="sourcePoint" />
             <mxPoint x="669" y="568" as="targetPoint" />
