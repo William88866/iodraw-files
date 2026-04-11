@@ -20,7 +20,7 @@
           <mxGeometry x="190" y="380" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="runtime_wrap" value="运行链路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=20;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="1350" height="365" as="geometry" />
+          <mxGeometry x="390" y="205" width="1350" height="365" as="geometry" />
         </mxCell>
         <mxCell id="seg_ctx_wrap" value="分段检索上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="runtime_wrap">
           <mxGeometry x="20" y="31.59" width="670" height="148.66" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="25" y="39.35081699346405" width="200" height="78.7016339869281" as="geometry" />
         </mxCell>
         <mxCell id="plan_wrap" value="与规划流程整合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="runtime_wrap">
-          <mxGeometry x="1080" y="31.59" width="270" height="168.46" as="geometry" />
+          <mxGeometry x="1000" y="31.59" width="270" height="168.46" as="geometry" />
         </mxCell>
         <mxCell id="plan1" value="概念分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="plan_wrap">
           <mxGeometry x="37.5" y="28.076666666666664" width="195.00000000000003" height="28.076666666666664" as="geometry" />
@@ -59,9 +59,9 @@
           <mxGeometry x="37.5" y="133.36416666666665" width="195.00000000000003" height="28.076666666666664" as="geometry" />
         </mxCell>
         <mxCell id="nonseg_text" value="非分段提示词" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;" vertex="1" parent="runtime_wrap">
-          <mxGeometry x="1080" y="210.5769230769231" width="160" height="16.846153846153847" as="geometry" />
+          <mxGeometry x="1050" y="214.7869230769231" width="160" height="16.846153846153847" as="geometry" />
         </mxCell>
-        <mxCell id="full_read_small" value="全文读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="runtime_wrap">
+        <mxCell id="full_read_small" value="全文读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;arcSize=50;" vertex="1" parent="runtime_wrap">
           <mxGeometry x="1110" y="231.6346153846154" width="110" height="26.673076923076923" as="geometry" />
         </mxCell>
         <mxCell id="full_wrap" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 传统全文处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="runtime_wrap">
