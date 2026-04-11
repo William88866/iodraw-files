@@ -165,6 +165,9 @@
         <mxCell id="LCXBw4Sp1UIA01tLmGg4-29" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="828" y="502" width="36" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="LCXBw4Sp1UIA01tLmGg4-30" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="616" width="36" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
