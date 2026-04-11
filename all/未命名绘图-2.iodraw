@@ -29,7 +29,7 @@
           <mxGeometry x="190" y="435" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="semantic_top" value="语义分段与片段建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="215" y="-63" width="420" height="160" as="geometry" />
+          <mxGeometry x="231" y="-100" width="420" height="160" as="geometry" />
         </mxCell>
         <mxCell id="semantic_left" value="内容类别&#xa;算法&#xa;方法&#xa;实现&#xa;实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="semantic_top">
           <mxGeometry x="20" y="46.666666666666664" width="150" height="93.33333333333333" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="23.703703703703706" y="48.945947712418295" width="189.62962962962965" height="97.89189542483659" as="geometry" />
         </mxCell>
         <mxCell id="plan_wrap" value="与规划流程整合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1102.9981481481482" y="353.00276712328764" width="256" height="209.53654794520548" as="geometry" />
+          <mxGeometry x="1093.5181481481482" y="353.00276712328764" width="256" height="209.53654794520548" as="geometry" />
         </mxCell>
         <mxCell id="plan1" value="概念分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="plan_wrap">
           <mxGeometry x="35.55555555555556" y="34.922757990867574" width="184.8888888888889" height="34.922757990867574" as="geometry" />
