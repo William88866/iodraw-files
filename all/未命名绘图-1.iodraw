@@ -26,13 +26,13 @@
           <mxGeometry x="360" y="120" width="240" height="24" as="geometry" />
         </mxCell>
         <mxCell id="g_syntax" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;语法门禁：&lt;br&gt;可编译性基线校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="330" y="170" width="160" height="250" as="geometry" />
+          <mxGeometry x="330" y="165" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_syntax_inner" value="Python&#xa;预编译校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_syntax">
           <mxGeometry x="29.09090909090909" y="95" width="101.8181818181818" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g_dep" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;依赖门禁：&lt;br&gt;依赖声明完整性校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="520" y="170" width="160" height="250" as="geometry" />
+          <mxGeometry x="520" y="165" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_dep_1" value="文件&#xa;扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_dep">
           <mxGeometry x="29.090909090909086" y="70" width="101.81818181818181" height="55" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="29.090909090909086" y="145" width="101.81818181818181" height="55" as="geometry" />
         </mxCell>
         <mxCell id="g_entry" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;入口门禁：&lt;br&gt;可执行入口存在性校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="760" y="165" width="180" height="250" as="geometry" />
+          <mxGeometry x="710" y="165" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_entry_1" value="入口&#xa;路径扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_entry">
           <mxGeometry x="32.72727272727273" y="70" width="114.54545454545453" height="55" as="geometry" />
