@@ -80,6 +80,9 @@
         <mxCell id="g_action_2" value="问题定位与修复&#xa;错误溯因 / 工程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
           <mxGeometry x="32" y="143.33" width="138" height="66.67" as="geometry" />
         </mxCell>
+        <mxCell id="L4uR_4W4lFajuHVVk__r-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g_policy" target="g_input_6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g_policy" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：advisory 与 blocking&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="690" width="360" height="225" as="geometry" />
         </mxCell>
@@ -123,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4uR_4W4lFajuHVVk__r-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="880" y="443" width="60" height="40" as="geometry" />
+          <mxGeometry x="880" y="462.5" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
