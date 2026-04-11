@@ -122,10 +122,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCXBw4Sp1UIA01tLmGg4-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="binary_repair_wrap">
+        <mxCell id="LCXBw4Sp1UIA01tLmGg4-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="binary_repair_wrap" target="compare_wrap">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="484" as="sourcePoint" />
             <mxPoint x="850" y="434" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="907" y="699" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
