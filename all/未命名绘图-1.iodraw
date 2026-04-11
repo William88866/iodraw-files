@@ -54,29 +54,22 @@
           <mxGeometry x="32.72727272727273" y="145" width="114.54545454545453" height="55" as="geometry" />
         </mxCell>
         <mxCell id="g_report_wrap" value="汇总质量结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="285" width="210" height="360" as="geometry" />
+          <mxGeometry x="940" y="320" width="210" height="325" as="geometry" />
         </mxCell>
         <mxCell id="g_report_title" value="质量报告与可观测性设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#cbd5e1;fontSize=14;fontStyle=1;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="19.7" y="50" width="170.6" height="36" as="geometry" />
+          <mxGeometry x="19.7" y="30" width="170.6" height="47.64" as="geometry" />
         </mxCell>
         <mxCell id="g_report_main" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#64748b;fontSize=16;fontStyle=1;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="37.8" y="110" width="134.4" height="48" as="geometry" />
+          <mxGeometry x="37.8" y="99.30555555555556" width="134.4" height="43.333333333333336" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s1" value="整体状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="50.4" y="210" width="109.2" height="36" as="geometry" />
+          <mxGeometry x="50.4" y="189.58333333333334" width="109.2" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s2" value="检查项明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="50.4" y="254" width="109.2" height="36" as="geometry" />
+          <mxGeometry x="50.4" y="229.30555555555557" width="109.2" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="g_report_s3" value="失败项摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="g_report_wrap">
-          <mxGeometry x="50.4" y="300" width="109.2" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="L4uR_4W4lFajuHVVk__r-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="g_report_wrap">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-40.299999999999955" y="210" as="sourcePoint" />
-            <mxPoint x="19.700000000000045" y="210" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="50.4" y="270.8333333333333" width="109.2" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="g_action" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;交付决策与收口动作&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="940" y="685" width="200" height="240" as="geometry" />
@@ -119,6 +112,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="520" as="sourcePoint" />
             <mxPoint x="720" y="520" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4uR_4W4lFajuHVVk__r-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="509.58333333333337" as="sourcePoint" />
+            <mxPoint x="940" y="509.58333333333337" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
