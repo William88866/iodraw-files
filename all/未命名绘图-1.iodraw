@@ -4,167 +4,119 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="外层质量门禁系统执行链路图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="20" width="360" height="30" as="geometry" />
+        <mxCell id="tip" value="模块素材区：这些模块可导入后手动拖动排版" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="input" value="输入产物&#xa;项目目录 / Python 文件&#xa;requirements.txt / 启动脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=16;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="250" y="65" width="320" height="80" as="geometry" />
+        <mxCell id="g_input" value="输入：生成产物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="240" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="trigger" value="触发外层质量门禁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=16;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="305" y="165" width="210" height="50" as="geometry" />
+        <mxCell id="g_input_1" value="project structure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
+          <mxGeometry x="20" y="55" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gateBox" value="三类核心门禁" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#fff7d6;strokeColor=#d6c36f;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="170" y="240" width="480" height="280" as="geometry" />
+        <mxCell id="g_input_2" value="Python file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
+          <mxGeometry x="125" y="55" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="syntax" value="语法门禁&#xa;逐文件语法检查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="gateBox" vertex="1">
-          <mxGeometry x="40" y="45" width="400" height="52" as="geometry" />
+        <mxCell id="g_input_3" value="Python script" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
+          <mxGeometry x="20" y="120" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="deps" value="依赖门禁&#xa;检查依赖声明文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="gateBox" vertex="1">
-          <mxGeometry x="40" y="112" width="400" height="52" as="geometry" />
+        <mxCell id="g_input_4" value="project data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
+          <mxGeometry x="125" y="120" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="entry" value="入口门禁&#xa;检查可执行入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="gateBox" vertex="1">
-          <mxGeometry x="40" y="179" width="400" height="52" as="geometry" />
+        <mxCell id="g_input_5" value="requirements.txt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=12;" vertex="1" parent="g_input">
+          <mxGeometry x="20" y="185" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="optBox" value="关键工程优化" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#e8f7ef;strokeColor=#7bb59b;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="40" y="590" width="260" height="170" as="geometry" />
+        <mxCell id="g_input_6" value="run.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
+          <mxGeometry x="125" y="185" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nest" value="嵌套项目识别&#xa;根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff5ea;strokeColor=#7bb59b;fontSize=14;align=center;verticalAlign=middle;" parent="optBox" vertex="1">
-          <mxGeometry x="20" y="42" width="220" height="45" as="geometry" />
+        <mxCell id="g_gate_title" value="外层质量门禁系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fallback" value="入口回退扫描&#xa;扫描子目录脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff5ea;strokeColor=#7bb59b;fontSize=14;align=center;verticalAlign=middle;" parent="optBox" vertex="1">
-          <mxGeometry x="20" y="100" width="220" height="45" as="geometry" />
+        <mxCell id="g_gate_sub" value="确保最小可运行性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="240" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="reportBox" value="质量报告与可观测性" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#fff7d6;strokeColor=#d6c36f;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="385" y="550" width="370" height="210" as="geometry" />
+        <mxCell id="g_syntax" value="语法门禁：&#xa;可编译性基线校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="220" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="report" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=15;align=center;verticalAlign=middle;" parent="reportBox" vertex="1">
-          <mxGeometry x="85" y="42" width="200" height="42" as="geometry" />
+        <mxCell id="g_syntax_inner" value="Python&#xa;预编译校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_syntax">
+          <mxGeometry x="40" y="95" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="status" value="整体状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=14;align=center;verticalAlign=middle;" parent="reportBox" vertex="1">
-          <mxGeometry x="85" y="96" width="200" height="32" as="geometry" />
+        <mxCell id="g_dep" value="依赖门禁：&#xa;依赖声明完整性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="220" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="detail" value="检查项明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=14;align=center;verticalAlign=middle;" parent="reportBox" vertex="1">
-          <mxGeometry x="85" y="136" width="200" height="32" as="geometry" />
+        <mxCell id="g_dep_1" value="文件&#xa;扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_dep">
+          <mxGeometry x="40" y="70" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="summary" value="失败摘要与归因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#7aa2d6;fontSize=14;align=center;verticalAlign=middle;" parent="reportBox" vertex="1">
-          <mxGeometry x="85" y="176" width="200" height="32" as="geometry" />
+        <mxCell id="g_dep_2" value="依赖声明完整性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_dep">
+          <mxGeometry x="40" y="145" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="policyBox" value="双策略模式" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#ffe7d8;strokeColor=#d6a07b;fontSize=16;fontStyle=1;startSize=30;align=left;" parent="1" vertex="1">
-          <mxGeometry x="190" y="790" width="440" height="180" as="geometry" />
+        <mxCell id="g_entry" value="入口门禁：&#xa;可执行入口存在性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="170" width="220" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="decision" value="策略选择" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe7d8;strokeColor=#d6a07b;fontSize=15;align=center;verticalAlign=middle;" parent="policyBox" vertex="1">
-          <mxGeometry x="170" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="g_entry_1" value="入口&#xa;路径扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_entry">
+          <mxGeometry x="40" y="70" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="advisory" value="Advisory&#xa;告警但继续收口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe7d8;strokeColor=#d6a07b;fontSize=15;align=center;verticalAlign=middle;" parent="policyBox" vertex="1">
-          <mxGeometry x="35" y="120" width="150" height="42" as="geometry" />
+        <mxCell id="g_entry_2" value="入口扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_entry">
+          <mxGeometry x="40" y="145" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="blocking" value="Blocking&#xa;失败即阻断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe7d8;strokeColor=#d6a07b;fontSize=15;align=center;verticalAlign=middle;" parent="policyBox" vertex="1">
-          <mxGeometry x="255" y="120" width="150" height="42" as="geometry" />
+        <mxCell id="g_report_wrap" value="汇总质量结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="60" width="250" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="e12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="policyBox" source="decision" target="advisory" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="110" y="100" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_report_title" value="质量报告与可观测性设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#cbd5e1;fontSize=14;fontStyle=1;" vertex="1" parent="g_report_wrap">
+          <mxGeometry x="35" y="50" width="180" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="e13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="policyBox" source="decision" target="blocking" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="330" y="100" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_report_main" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#64748b;fontSize=16;fontStyle=1;" vertex="1" parent="g_report_wrap">
+          <mxGeometry x="45" y="110" width="160" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="outBox" value="交付决策与收口动作" style="swimlane;html=1;rounded=1;whiteSpace=wrap;fillColor=#f3f4f6;strokeColor=#9ca3af;fontSize=16;fontStyle=1;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="170" y="995" width="480" height="150" as="geometry" />
+        <mxCell id="g_report_s1" value="整体状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="g_report_wrap">
+          <mxGeometry x="60" y="175" width="130" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="deliver" value="交付收口&#xa;预览 / 导出 / 联调" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#9ca3af;fontSize=15;align=center;verticalAlign=middle;" parent="outBox" vertex="1">
-          <mxGeometry x="35" y="52" width="180" height="50" as="geometry" />
+        <mxCell id="g_report_s2" value="检查项明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="g_report_wrap">
+          <mxGeometry x="60" y="223" width="130" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="blockret" value="阻断返回&#xa;错误原因 / 修复线索 / 工程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#9ca3af;fontSize=15;align=center;verticalAlign=middle;" parent="outBox" vertex="1">
-          <mxGeometry x="265" y="52" width="180" height="50" as="geometry" />
+        <mxCell id="g_report_s3" value="失败项摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="g_report_wrap">
+          <mxGeometry x="60" y="271" width="130" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="input" target="trigger" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g_action" value="交付决策与收口动作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="60" width="250" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="trigger" target="syntax" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="190" />
-              <mxPoint x="760" y="311" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_action_1" value="交付端收口&#xa;项目导出 / 预览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
+          <mxGeometry x="40" y="95" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="trigger" target="deps" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="190" />
-              <mxPoint x="680" y="378" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_action_2" value="问题定位与修复&#xa;错误溯因 / 工程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
+          <mxGeometry x="40" y="210" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="trigger" target="entry" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="190" />
-              <mxPoint x="120" y="445" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_policy" value="1）双策略执行模式：advisory 与 blocking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="380" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="syntax" target="report" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="700" y="311" />
-              <mxPoint x="700" y="465" />
-              <mxPoint x="570" y="465" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_policy_sel" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=16;fontStyle=1;" vertex="1" parent="g_policy">
+          <mxGeometry x="25" y="70" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="deps" target="report" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="378" />
-              <mxPoint x="730" y="498" />
-              <mxPoint x="570" y="498" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_policy_adv" value="advisory&#xa;（告警模式）&#xa;Prioritize Continuity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=14;" vertex="1" parent="g_policy">
+          <mxGeometry x="165" y="70" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="entry" target="report" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g_policy_block" value="blocking&#xa;（阻断模式）&#xa;Strict Acceptance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="g_policy">
+          <mxGeometry x="165" y="150" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e8" value="支撑依赖门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" parent="1" source="nest" target="deps" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="195" y="498" />
-              <mxPoint x="670" y="498" />
-              <mxPoint x="670" y="378" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_opt" value="2）关键工程优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="470" width="380" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="e9" value="支撑入口门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" parent="1" source="nest" target="entry" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="195" y="532" />
-              <mxPoint x="410" y="532" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_opt_1" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_opt">
+          <mxGeometry x="25" y="70" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e10" value="支撑入口门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" parent="1" source="fallback" target="entry" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="195" y="561" />
-              <mxPoint x="410" y="561" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="g_opt_2" value="入口回退扫描&#xa;入口回退&#xa;子目录脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_opt">
+          <mxGeometry x="205" y="70" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="report" target="decision" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g_legend" value="图例" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="470" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="e14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="advisory" target="deliver" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g_leg_1" value="处理区块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="g_legend">
+          <mxGeometry x="35" y="45" width="130" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="e15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="blocking" target="blockret" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g_leg_2" value="特殊策略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="g_legend">
+          <mxGeometry x="35" y="88" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="g_leg_3" value="数据流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=14;" vertex="1" parent="g_legend">
+          <mxGeometry x="35" y="131" width="130" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
