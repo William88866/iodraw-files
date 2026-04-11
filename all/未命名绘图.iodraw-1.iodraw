@@ -140,7 +140,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9" value="策略支撑" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" edge="1" parent="1" source="g_report_main" target="g_policy_sel">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="214" />
+              <mxPoint x="60" y="568" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e12" value="告警继续" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" edge="1" parent="1" source="g_policy_adv" target="g_action_1">
           <mxGeometry relative="1" as="geometry" />
@@ -157,10 +162,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e15" value="支撑入口门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" edge="1" parent="1" source="g_opt_1" target="g_entry">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.691" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e16" value="支撑入口门禁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=12;" edge="1" parent="1" source="g_opt_2" target="g_entry">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.1544" y="-25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
