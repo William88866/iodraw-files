@@ -97,7 +97,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="syntax" target="report" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="311" />
+              <mxPoint x="700" y="465" />
+              <mxPoint x="570" y="465" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" parent="1" source="deps" target="report" edge="1">
           <mxGeometry relative="1" as="geometry" />
