@@ -65,7 +65,7 @@
           <mxGeometry x="43.40909090909091" y="55" width="104.18181818181817" height="120" as="geometry" />
         </mxCell>
         <mxCell id="merge_wrap" value="提取结果&#xa;聚合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=22;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="267" width="170" height="290" as="geometry" />
+          <mxGeometry x="1202" y="290" width="170" height="290" as="geometry" />
         </mxCell>
         <mxCell id="merge_inner" value="局部写入&#xa;extraction_source 字段&#xa;pypdf_markdown&#xa;native_direct&#xa;native_fallback" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="merge_wrap">
           <mxGeometry x="20" y="100" width="130" height="164.41" as="geometry" />
@@ -97,7 +97,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCXBw4Sp1UIA01tLmGg4-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="merge_wrap">
+        <mxCell id="LCXBw4Sp1UIA01tLmGg4-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="extract_ok1" target="merge_wrap">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="484" as="sourcePoint" />
             <mxPoint x="850" y="434" as="targetPoint" />
