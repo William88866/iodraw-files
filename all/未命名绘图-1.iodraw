@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kQ0DLpsuWasoLRp_zkhE">
-    <mxGraphModel dx="1427" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="10" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g_input" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;输入：生成产物&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="165" width="190" height="260" as="geometry" />
+          <mxGeometry x="90" y="385" width="190" height="260" as="geometry" />
         </mxCell>
         <mxCell id="g_input_4" value="project data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" vertex="1" parent="g_input">
           <mxGeometry x="55.416666666666664" y="60" width="87.08333333333333" height="50" as="geometry" />
@@ -23,16 +23,16 @@
           <mxGeometry x="320" y="60" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g_gate_sub" value="确保最小可运行性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="240" height="24" as="geometry" />
+          <mxGeometry x="360" y="340" width="240" height="24" as="geometry" />
         </mxCell>
         <mxCell id="g_syntax" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;语法门禁：&lt;br&gt;可编译性基线校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="330" y="165" width="160" height="250" as="geometry" />
+          <mxGeometry x="330" y="385" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_syntax_inner" value="Python&#xa;预编译校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_syntax">
           <mxGeometry x="29.09090909090909" y="95" width="101.8181818181818" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g_dep" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;依赖门禁：&lt;br&gt;依赖声明完整性校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="520" y="165" width="160" height="250" as="geometry" />
+          <mxGeometry x="520" y="385" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_dep_1" value="文件&#xa;扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_dep">
           <mxGeometry x="29.090909090909086" y="70" width="101.81818181818181" height="55" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="29.090909090909086" y="145" width="101.81818181818181" height="55" as="geometry" />
         </mxCell>
         <mxCell id="g_entry" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;入口门禁：&lt;br&gt;可执行入口存在性校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="710" y="165" width="180" height="250" as="geometry" />
+          <mxGeometry x="710" y="385" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_entry_1" value="入口&#xa;路径扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="g_entry">
           <mxGeometry x="32.72727272727273" y="70" width="114.54545454545453" height="55" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="32.72727272727273" y="145" width="114.54545454545453" height="55" as="geometry" />
         </mxCell>
         <mxCell id="g_report_wrap" value="汇总质量结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="80" width="250" height="360" as="geometry" />
+          <mxGeometry x="970" y="300" width="250" height="360" as="geometry" />
         </mxCell>
         <mxCell id="g_report_title" value="质量报告与可观测性设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#cbd5e1;fontSize=14;fontStyle=1;" vertex="1" parent="g_report_wrap">
           <mxGeometry x="35" y="50" width="180" height="36" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="60" y="300" width="130" height="36" as="geometry" />
         </mxCell>
         <mxCell id="g_action" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;交付决策与收口动作&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="80" width="250" height="360" as="geometry" />
+          <mxGeometry x="1290" y="300" width="250" height="360" as="geometry" />
         </mxCell>
         <mxCell id="g_action_1" value="交付端收口&#xa;项目导出 / 预览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_action">
           <mxGeometry x="40" y="95" width="170" height="70" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="40" y="210" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g_policy" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：advisory 与 blocking&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="240" y="455" width="360" height="225" as="geometry" />
+          <mxGeometry x="240" y="675" width="360" height="225" as="geometry" />
         </mxCell>
         <mxCell id="g_policy_sel" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=16;fontStyle=1;" vertex="1" parent="g_policy">
           <mxGeometry x="23.684210526315788" y="60.57692307692308" width="94.73684210526315" height="103.84615384615385" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="156.3157894736842" y="129.80769230769232" width="161.05263157894737" height="51.92307692307693" as="geometry" />
         </mxCell>
         <mxCell id="g_opt" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;2）关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="640" y="455" width="370" height="220" as="geometry" />
+          <mxGeometry x="640" y="675" width="370" height="220" as="geometry" />
         </mxCell>
         <mxCell id="g_opt_1" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="g_opt">
           <mxGeometry x="24.342105263157894" y="59.23076923076923" width="146.05263157894737" height="101.53846153846153" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="199.60526315789474" y="59.23076923076923" width="146.05263157894737" height="101.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="g_legend" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;图例&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="475" width="200" height="180" as="geometry" />
+          <mxGeometry x="1090" y="695" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="g_leg_1" value="处理区块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="g_legend">
           <mxGeometry x="35" y="45" width="130" height="34" as="geometry" />
