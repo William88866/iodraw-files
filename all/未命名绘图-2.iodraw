@@ -58,11 +58,14 @@
         <mxCell id="seg_ctx_wrap" value="分段检索上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="437.0029629629629" y="125.00276712328764" width="635.2592592592592" height="184.90860273972604" as="geometry" />
         </mxCell>
+        <mxCell id="C9uSTEXf1ApDBloXLai--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="seg_ctx_wrap" source="seg_slices" target="seg_pool">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="seg_slices" value="语义分段与&lt;br&gt;片段建模&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="16.72" y="54.38" width="158.21" height="91.4" as="geometry" />
+          <mxGeometry x="16.72" y="54.38" width="197.28" height="91.4" as="geometry" />
         </mxCell>
         <mxCell id="seg_pool" value="片段池" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="313.02920902901377" y="48.94537862801644" width="91.94541910331384" height="97.89075725603288" as="geometry" />
+          <mxGeometry x="254" y="48.940000000000005" width="138.97" height="97.89" as="geometry" />
         </mxCell>
         <mxCell id="task_sort" value="任务导向检索&#xa;过滤和排行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;fontStyle=1;" vertex="1" parent="seg_ctx_wrap">
           <mxGeometry x="432.7128287707997" y="48.944931506849315" width="160.75741921631774" height="97.88986301369863" as="geometry" />
