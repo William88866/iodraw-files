@@ -49,7 +49,7 @@
         <mxCell id="main_select_1" value="&lt;span style=&quot;color: rgb(32, 32, 32); background-color: oklab(0.24353 0.000011079 0.00000487268 / 0.1);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;采用 Markdown 解析结果&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;align=center;" vertex="1" parent="main_select">
           <mxGeometry x="32.73529411764706" y="55" width="252.52941176470588" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="main_select_1_desc" value="当模式为 hybrid 且&#xa;Markdown结果有效时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="main_select">
+        <mxCell id="main_select_1_desc" value="混合模式下，若Markdown结果有效&lt;div&gt;则优先采取&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="main_select">
           <mxGeometry x="32.73529411764706" y="105" width="252.52941176470588" height="50" as="geometry" />
         </mxCell>
         <mxCell id="main_select_2" value="&lt;span style=&quot;color: rgb(32, 32, 32); font-size: 16px; text-align: start; background-color: oklab(0.24353 0.000011079 0.00000487268 / 0.1);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;采用原生解析结果&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="main_select">
