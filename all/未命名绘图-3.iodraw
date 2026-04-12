@@ -7,6 +7,9 @@
         <mxCell id="t1" value="市场调研阶段：明确用户需求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff200;strokeColor=none;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="360" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="e04Y0Yivl6M8BS0p8UBV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="market_wrap" target="prompt_wrap">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="market_wrap" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#ffffff;strokeColor=#4c82ff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="60" width="1310" height="314" as="geometry" />
         </mxCell>
@@ -273,12 +276,6 @@
         </mxCell>
         <mxCell id="l5" value="过程可见" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#45d5ff;strokeColor=#18bde6;fontSize=20;fontStyle=1;" vertex="1" parent="light_wrap">
           <mxGeometry x="910" y="30" width="180" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="e04Y0Yivl6M8BS0p8UBV-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.48;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;width=72;endSize=24.94;" edge="1" parent="1" source="market_wrap">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="837" y="803" as="sourcePoint" />
-            <mxPoint x="887" y="753" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
