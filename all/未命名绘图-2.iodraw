@@ -64,11 +64,14 @@
         <mxCell id="seg_slices" value="语义分段与&lt;br&gt;片段建模&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="seg_ctx_wrap">
           <mxGeometry x="16.72" y="54.38" width="197.28" height="91.4" as="geometry" />
         </mxCell>
+        <mxCell id="C9uSTEXf1ApDBloXLai--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="seg_ctx_wrap" source="seg_pool" target="task_sort">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="seg_pool" value="片段池" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="254" y="48.940000000000005" width="138.97" height="97.89" as="geometry" />
+          <mxGeometry x="256" y="51.13" width="138.97" height="97.89" as="geometry" />
         </mxCell>
         <mxCell id="task_sort" value="任务导向检索&#xa;过滤和排行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;fontStyle=1;" vertex="1" parent="seg_ctx_wrap">
-          <mxGeometry x="432.7128287707997" y="48.944931506849315" width="160.75741921631774" height="97.88986301369863" as="geometry" />
+          <mxGeometry x="433.9928287707997" y="51.13493150684931" width="160.75741921631774" height="97.88986301369863" as="geometry" />
         </mxCell>
         <mxCell id="budget_wrap" value="上下文预算控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1102.9955555555557" y="125.00061728395059" width="237.03703703703704" height="184.90691358024688" as="geometry" />
