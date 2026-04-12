@@ -274,6 +274,9 @@
         <mxCell id="l5" value="过程可见" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#45d5ff;strokeColor=#18bde6;fontSize=20;fontStyle=1;" vertex="1" parent="light_wrap">
           <mxGeometry x="910" y="30" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="e04Y0Yivl6M8BS0p8UBV-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="587" y="728" width="70" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
