@@ -220,6 +220,9 @@
         <mxCell id="i4" value="fetch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4f87e8;strokeColor=#4f87e8;fontColor=#ffffff;fontSize=20;fontStyle=1;" vertex="1" parent="inter_wrap">
           <mxGeometry x="67" y="265" width="170" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="e04Y0Yivl6M8BS0p8UBV-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="inter_wrap">
+          <mxGeometry x="-74" y="115" width="100" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="back_wrap" value="后端技术栈" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=6 6;fillColor=#ffffff;strokeColor=#333333;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="715" y="1103" width="320" height="330" as="geometry" />
         </mxCell>
@@ -285,6 +288,9 @@
         </mxCell>
         <mxCell id="e04Y0Yivl6M8BS0p8UBV-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="632" y="1412" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e04Y0Yivl6M8BS0p8UBV-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="572" y="743" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
