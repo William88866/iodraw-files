@@ -46,14 +46,26 @@
         <mxCell id="budget_top_inner" value="字符预算&#xa;...&#xa;受控截断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=14;" vertex="1" parent="budget_top">
           <mxGeometry x="45" y="35" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C9uSTEXf1ApDBloXLai--8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cond_trigger">
+        <mxCell id="C9uSTEXf1ApDBloXLai--8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cond_trigger" target="seg_ctx_wrap">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="677" y="327" as="sourcePoint" />
-            <mxPoint x="437.002962962963" y="217.4570684931507" as="targetPoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="335" y="217" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="seg_ctx_wrap" value="分段检索上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="437.0029629629629" y="125.00276712328764" width="635.2592592592592" height="184.90860273972604" as="geometry" />
+        </mxCell>
+        <mxCell id="seg_slices" value="语义分段与&lt;br&gt;片段建模&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="seg_ctx_wrap">
+          <mxGeometry x="16.72" y="54.38" width="158.21" height="91.4" as="geometry" />
+        </mxCell>
+        <mxCell id="seg_pool" value="片段池" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="seg_ctx_wrap">
+          <mxGeometry x="313.02920902901377" y="48.94537862801644" width="91.94541910331384" height="97.89075725603288" as="geometry" />
+        </mxCell>
+        <mxCell id="task_sort" value="任务导向检索&#xa;过滤和排行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;fontStyle=1;" vertex="1" parent="seg_ctx_wrap">
+          <mxGeometry x="432.7128287707997" y="48.944931506849315" width="160.75741921631774" height="97.88986301369863" as="geometry" />
         </mxCell>
         <mxCell id="budget_wrap" value="上下文预算控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=18;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1102.9955555555557" y="125.00061728395059" width="237.03703703703704" height="184.90691358024688" as="geometry" />
@@ -100,9 +112,9 @@
             <mxPoint x="875" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C9uSTEXf1ApDBloXLai--11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="budget_wrap">
+        <mxCell id="C9uSTEXf1ApDBloXLai--11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="seg_ctx_wrap" target="budget_wrap">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1072.2622222222221" y="217.4570684931507" as="sourcePoint" />
+            <mxPoint x="1065" y="327" as="sourcePoint" />
             <mxPoint x="1115" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -112,10 +124,8 @@
             <mxPoint x="1115" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C9uSTEXf1ApDBloXLai--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="semantic_right">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="754.7" y="125.00276712328764" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="C9uSTEXf1ApDBloXLai--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="semantic_right" target="seg_ctx_wrap">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C9uSTEXf1ApDBloXLai--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="budget_top_inner" target="budget_wrap">
           <mxGeometry relative="1" as="geometry">
