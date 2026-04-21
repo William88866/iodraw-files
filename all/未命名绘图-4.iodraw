@@ -67,11 +67,11 @@
         <mxCell id="60" value="主结果选择层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="870" y="570" width="210" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="62" value="优先采用高质量 Markdown 结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="895" y="640" width="165" height="60" as="geometry" />
+        <mxCell id="62" value="优先采用高质量 Markdown 结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="650" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="63" value="Markdown 无效时回退原生结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="900" y="735" width="150" height="60" as="geometry" />
+        <mxCell id="63" value="Markdown 无效时回退原生结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="890" y="735" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64" value="记录主解析路径与回退原因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1525" y="1205" width="270" height="60" as="geometry" />
