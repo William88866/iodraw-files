@@ -136,9 +136,6 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-127" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1640" y="895" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-128" value="修复建议清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="975" width="200" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
