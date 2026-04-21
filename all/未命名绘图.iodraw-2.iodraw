@@ -7,7 +7,7 @@
         <mxCell id="2" value="外质量门禁系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=24;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="30" width="520" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="输入层：外质量门禁输入" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+        <mxCell id="10" value="\" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="300" height="420" as="geometry" />
         </mxCell>
         <mxCell id="11" value="artifact_root&lt;br&gt;生成项目目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
