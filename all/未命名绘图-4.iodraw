@@ -17,10 +17,10 @@
           <mxGeometry x="75" y="580" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="12" value="论文标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="75" y="670" width="180" height="70" as="geometry" />
+          <mxGeometry x="75" y="670" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="任务标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="75" y="765" width="180" height="70" as="geometry" />
+        <mxCell id="13" value="任务标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="75" y="765" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="20" value="策略初始化层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eff6ff;strokeColor=#7aa7e8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="555" width="220" height="260" as="geometry" />
