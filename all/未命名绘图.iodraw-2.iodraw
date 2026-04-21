@@ -115,6 +115,9 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-127" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="1240" y="432.5" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-131" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="347.5" width="85" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
