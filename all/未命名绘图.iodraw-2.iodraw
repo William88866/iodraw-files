@@ -97,9 +97,6 @@
         <mxCell id="yolQQk1XBkqGTOfFP1Wq-65" value="&lt;span style=&quot;font-size: 23px; font-weight: 700;&quot;&gt;分段启用判定与全文回退&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="350" y="485" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yolQQk1XBkqGTOfFP1Wq-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
