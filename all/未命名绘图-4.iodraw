@@ -34,9 +34,6 @@
         <mxCell id="31" value="Markdown 转换抽取模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="407.5" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="32" value="Markdown 结果有效性判定" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="400" width="279" height="77.5" as="geometry" />
-        </mxCell>
         <mxCell id="33" value="回退触发条件判断" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="310" width="170" height="80" as="geometry" />
         </mxCell>
