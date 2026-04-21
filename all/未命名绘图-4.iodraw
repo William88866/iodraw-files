@@ -65,10 +65,10 @@
           <mxGeometry x="700" y="520" width="790" height="210" as="geometry" />
         </mxCell>
         <mxCell id="51" value="章节识别与内容分段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="750" y="565" width="200" height="70" as="geometry" />
+          <mxGeometry x="750" y="590" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="52" value="结构化信息抽取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="990" y="565" width="180" height="70" as="geometry" />
+          <mxGeometry x="990" y="590" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="53" value="证据映射与缺失字段检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1200" y="565" width="240" height="70" as="geometry" />
