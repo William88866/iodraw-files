@@ -80,16 +80,16 @@
           <mxGeometry x="330" y="805" width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="60" value="分析规划协同注入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f3ff;strokeColor=#a78bfa;fontSize=28;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="720" width="420" height="310" as="geometry" />
+          <mxGeometry x="1630" y="720" width="360" height="310" as="geometry" />
         </mxCell>
         <mxCell id="61" value="概念分析上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1680" y="790" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62" value="算法抽取上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="870" width="200" height="60" as="geometry" />
+          <mxGeometry x="1680" y="860" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="63" value="代码规划上下文注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ddd6fe;strokeColor=#7c3aed;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="950" width="200" height="60" as="geometry" />
+          <mxGeometry x="1680" y="930" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yolQQk1XBkqGTOfFP1Wq-65" value="&lt;span style=&quot;font-size: 23px; font-weight: 700;&quot;&gt;分段启用判定与全文回退&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="350" y="485" width="170" height="60" as="geometry" />
