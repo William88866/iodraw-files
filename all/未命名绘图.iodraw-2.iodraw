@@ -8,7 +8,7 @@
           <mxGeometry x="700" y="30" width="520" height="70" as="geometry" />
         </mxCell>
         <mxCell id="20" value="上下文构建层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eff6ff;strokeColor=#7aa7e8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="390" y="150" width="340" height="420" as="geometry" />
+          <mxGeometry x="390" y="150" width="340" height="390" as="geometry" />
         </mxCell>
         <mxCell id="21" value="项目根识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="215" width="180" height="65" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="830" y="690" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="54" value="最终入口确认" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#3b82f6;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="775" width="200" height="60" as="geometry" />
+          <mxGeometry x="560" y="960" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60" value="修复闭环层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0fdf4;strokeColor=#34d399;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="1150" y="540" width="350" height="295" as="geometry" />
