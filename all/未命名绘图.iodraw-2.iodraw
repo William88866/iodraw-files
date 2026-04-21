@@ -145,6 +145,21 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="阻断：因代码无法运行而阻断代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
           <mxGeometry x="160.6622222222222" y="144.23333333333335" width="165.5236111111111" height="66.8777777777778" as="geometry" />
         </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-111" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;2）关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="695" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-112" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-111">
+          <mxGeometry x="24.342105263157894" y="59.23076923076923" width="146.05263157894737" height="101.53846153846153" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-113" value="入口回退扫描&#xa;入口回退&#xa;子目录脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-111">
+          <mxGeometry x="199.60526315789474" y="59.23076923076923" width="146.05263157894737" height="101.53846153846153" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-114" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-111" source="TjRwEU3hKkvKrm17aJ6L-113" target="TjRwEU3hKkvKrm17aJ6L-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="-77" as="sourcePoint" />
+            <mxPoint x="169" y="-127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
