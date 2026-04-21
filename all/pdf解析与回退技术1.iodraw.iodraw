@@ -109,8 +109,8 @@
         <mxCell id="gNXPRkG77m3685x8wG2p-83" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="1122.5" y="665" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gNXPRkG77m3685x8wG2p-85" value="否则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="725" y="528" width="50" height="30" as="geometry" />
+        <mxCell id="gNXPRkG77m3685x8wG2p-85" value="否则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="590" y="530" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
