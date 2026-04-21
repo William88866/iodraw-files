@@ -10,13 +10,13 @@
         <mxCell id="10" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=30;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="180" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="输入文档内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="11" value="输入文档内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="95" y="285" width="145" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="任务类型信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="12" value="任务类型信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="95" y="380" width="145" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="配置项与阈值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="13" value="配置项与阈值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="95" y="475" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="20" value="启用判定层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eef6ff;strokeColor=#7aa7e8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
