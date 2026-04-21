@@ -145,7 +145,7 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="阻断：因代码无法运行而阻断代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
           <mxGeometry x="160.6622222222222" y="144.23333333333335" width="165.5236111111111" height="66.8777777777778" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-111" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;2）关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-111" value="&lt;p style=&quot;line-height: 120%; font-size: 26px;&quot;&gt;关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="785" y="540" width="405" height="247.5" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-112" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=15;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-111">
