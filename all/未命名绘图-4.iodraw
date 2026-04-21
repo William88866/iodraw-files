@@ -74,7 +74,7 @@
           <mxGeometry x="920" y="735" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="70" value="结构化统一输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f3ff;strokeColor=#a78bfa;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="860" y="860" width="340" height="360" as="geometry" />
+          <mxGeometry x="860" y="860" width="270" height="310" as="geometry" />
         </mxCell>
         <mxCell id="71" value="统一页面文本集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="900" y="930" width="200" height="60" as="geometry" />
