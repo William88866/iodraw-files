@@ -23,7 +23,7 @@
           <mxGeometry x="470" y="455" width="180" height="65" as="geometry" />
         </mxCell>
         <mxCell id="25" value="统一检查上下文生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#3b82f6;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="535" width="230" height="70" as="geometry" />
+          <mxGeometry x="220" y="860" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="30" value="基础静态质量门" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="790" y="150" width="320" height="280" as="geometry" />
