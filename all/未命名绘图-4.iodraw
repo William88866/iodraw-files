@@ -10,13 +10,13 @@
         <mxCell id="3" value="面向论文解析稳定性与结构化抽取质量的核心技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#93c5fd;fontSize=15;fontColor=#1e3a8a;" vertex="1" parent="1">
           <mxGeometry x="930" y="110" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=21;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+        <mxCell id="10" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=31;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="60" y="510" width="210" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="PDF 文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="11" value="PDF 文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="75" y="580" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="论文标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="12" value="论文标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="75" y="670" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="13" value="任务标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
