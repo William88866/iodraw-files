@@ -71,7 +71,7 @@
           <mxGeometry x="367.5" y="442.5" width="185" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%; font-size: 24px;&quot;&gt;双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=24;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="290" y="640" width="370" height="250" as="geometry" />
+          <mxGeometry x="210" y="640" width="450" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-110">
           <mxGeometry relative="1" as="geometry" />
@@ -80,16 +80,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=21;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="24.342105263157887" y="67.30769230769232" width="97.36842105263155" height="115.38461538461542" as="geometry" />
+          <mxGeometry x="29.605263157894726" y="67.30769230769232" width="118.4210526315789" height="115.38461538461542" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="警告：虽不完全但是不影响代码运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="160.65789473684208" y="67.30769230769232" width="165.5263157894737" height="57.69230769230771" as="geometry" />
+          <mxGeometry x="195.39473684210523" y="67.30769230769232" width="201.31578947368422" height="57.69230769230771" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="阻断：因代码无法运行而阻断代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="160.6622222222222" y="144.23333333333335" width="165.5236111111111" height="66.8777777777778" as="geometry" />
+          <mxGeometry x="195.39999999999998" y="144.23333333333335" width="201.3125" height="66.8777777777778" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-111" value="&lt;p style=&quot;line-height: 120%; font-size: 26px;&quot;&gt;关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="832.5" y="555" width="405" height="260" as="geometry" />
+          <mxGeometry x="855" y="640" width="405" height="260" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-112" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=23;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-111">
           <mxGeometry x="26.64473684210526" y="90" width="159.86842105263156" height="120" as="geometry" />
