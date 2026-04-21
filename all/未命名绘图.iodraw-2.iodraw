@@ -46,7 +46,7 @@
         <mxCell id="42" value="产物与清单是否一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1215" y="295" width="220" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="43" value="manifest 与实际产物一致性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="43" value="是否完整生成代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1195" y="375" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="44" value="计划依赖解析校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
