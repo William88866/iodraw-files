@@ -104,19 +104,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-123" value="结果输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f3ff;strokeColor=#a78bfa;fontSize=31;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="202.5" width="260" height="330" as="geometry" />
+          <mxGeometry x="1230" y="222.5" width="260" height="330" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-124" value="总体判定结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="272.5" width="200" height="55" as="geometry" />
+          <mxGeometry x="1260" y="292.5" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-125" value="失败检查明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="352.5" width="200" height="55" as="geometry" />
+          <mxGeometry x="1260" y="372.5" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-127" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="432.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="1260" y="452.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-131" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="347.5" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-132" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="357.5" width="85" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
