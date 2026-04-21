@@ -71,10 +71,10 @@
           <mxGeometry x="990" y="590" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="53" value="证据映射与缺失字段检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="565" width="240" height="70" as="geometry" />
+          <mxGeometry x="1200" y="590" width="240" height="45" as="geometry" />
         </mxCell>
         <mxCell id="54" value="解析质量评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d1fae5;strokeColor=#10b981;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="665" width="140" height="60" as="geometry" />
+          <mxGeometry x="1010" y="665" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="60" value="主结果选择层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="730" y="802.5" width="420" height="330" as="geometry" />
