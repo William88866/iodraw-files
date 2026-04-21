@@ -83,10 +83,10 @@
           <mxGeometry x="31.57894736842104" y="67.30769230769232" width="126.31578947368416" height="115.38461538461542" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="警告：虽不完全但是不影响代码运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=18;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="208.4210526315789" y="67.30769230769232" width="214.73684210526315" height="57.69230769230771" as="geometry" />
+          <mxGeometry x="208.42" y="67.31" width="214.74" height="72.69" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="阻断：因代码无法运行而阻断代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=18;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="208.42666666666665" y="144.23333333333335" width="214.73333333333332" height="66.8777777777778" as="geometry" />
+          <mxGeometry x="208.43" y="144.23" width="214.73" height="85.77" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-111" value="&lt;p style=&quot;line-height: 120%; font-size: 26px;&quot;&gt;关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="855" y="640" width="475" height="260" as="geometry" />
