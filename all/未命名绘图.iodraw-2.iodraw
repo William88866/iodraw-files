@@ -100,6 +100,9 @@
         <mxCell id="64" value="三类任务导向：概念理解 / 算法还原 / 实现规划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#c4b5fd;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1610" y="1030" width="340" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yolQQk1XBkqGTOfFP1Wq-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
