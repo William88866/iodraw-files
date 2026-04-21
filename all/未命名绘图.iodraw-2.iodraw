@@ -79,27 +79,6 @@
         <mxCell id="80" value="输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f3ff;strokeColor=#a78bfa;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="1930" y="510" width="320" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="81" value="总体判定&lt;br&gt;pass / fail / advisory_pass" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="575" width="200" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="82" value="失败检查清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="670" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="83" value="阻断原因摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="745" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="84" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="820" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="85" value="修复建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="895" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86" value="可观测性归档&lt;br&gt;quality_report / phase_events / runtime_report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ddd6fe;strokeColor=#7c3aed;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1965" y="970" width="250" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="87" value="交付端收口 / 预览 / 导出判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ddd6fe;strokeColor=#7c3aed;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1965" y="1070" width="250" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-87" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=30;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="60" y="210" width="220" height="340" as="geometry" />
         </mxCell>
@@ -159,6 +138,24 @@
             <mxPoint x="130.25675675675674" y="-91" as="sourcePoint" />
             <mxPoint x="184.98648648648648" y="-150.0909090909091" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-115" value="结果输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f3ff;strokeColor=#a78bfa;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="580" width="320" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-116" value="总体判定结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="645" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-117" value="失败检查明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="725" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-118" value="阻断原因摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="805" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-119" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="885" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-120" value="修复建议清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="965" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
