@@ -56,7 +56,7 @@
           <mxGeometry x="880" y="290" width="480" height="230" as="geometry" />
         </mxCell>
         <mxCell id="51" value="章节识别与内容分段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="890" y="350" width="250" height="45" as="geometry" />
+          <mxGeometry x="1000" y="350" width="250" height="45" as="geometry" />
         </mxCell>
         <mxCell id="52" value="结构化信息抽取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="890" y="400" width="250" height="45" as="geometry" />
