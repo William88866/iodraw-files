@@ -7,20 +7,20 @@
         <mxCell id="2" value="外质量门禁系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=24;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="30" width="520" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="上下文构建层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eff6ff;strokeColor=#7aa7e8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="240" height="330" as="geometry" />
+        <mxCell id="20" value="上下文构建层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eff6ff;strokeColor=#7aa7e8;fontSize=29;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="240" height="330" as="geometry" />
         </mxCell>
         <mxCell id="21" value="项目根识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="295" width="180" height="40" as="geometry" />
+          <mxGeometry x="380" y="295" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="22" value="manifest 装载与标准化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="360" width="180" height="40" as="geometry" />
+          <mxGeometry x="380" y="360" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="23" value="中间报告装载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="420" width="180" height="40" as="geometry" />
+          <mxGeometry x="380" y="420" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24" value="语言分派" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="480" width="180" height="40" as="geometry" />
+          <mxGeometry x="380" y="480" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="25" value="统一检查上下文生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#3b82f6;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="860" width="230" height="70" as="geometry" />
