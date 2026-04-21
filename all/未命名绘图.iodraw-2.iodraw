@@ -8,7 +8,7 @@
           <mxGeometry x="700" y="30" width="520" height="70" as="geometry" />
         </mxCell>
         <mxCell id="20" value="上下文构建层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eff6ff;strokeColor=#7aa7e8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="390" y="150" width="340" height="390" as="geometry" />
+          <mxGeometry x="440" y="210" width="240" height="330" as="geometry" />
         </mxCell>
         <mxCell id="21" value="项目根识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="295" width="180" height="40" as="geometry" />
