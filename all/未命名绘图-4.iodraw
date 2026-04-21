@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gAQzYkJ30QdeT27pBmcQ">
-    <mxGraphModel dx="1866" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="540" y="640" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="40" value="原生与兜底路径" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=31;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="60" y="880" width="1100" height="240" as="geometry" />
+          <mxGeometry x="242.5" y="880" width="560" height="240" as="geometry" />
         </mxCell>
         <mxCell id="41" value="原生文本提取模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="960" width="210" height="65" as="geometry" />
@@ -74,16 +74,16 @@
           <mxGeometry x="920" y="735" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="70" value="结构化统一输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f3ff;strokeColor=#a78bfa;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="550" width="420" height="360" as="geometry" />
+          <mxGeometry x="860" y="860" width="420" height="360" as="geometry" />
         </mxCell>
         <mxCell id="71" value="统一页面文本集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="620" width="200" height="60" as="geometry" />
+          <mxGeometry x="970" y="930" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="72" value="结构化解析结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="700" width="200" height="60" as="geometry" />
+          <mxGeometry x="970" y="1010" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="73" value="解析质量信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="780" width="200" height="60" as="geometry" />
+          <mxGeometry x="970" y="1090" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNXPRkG77m3685x8wG2p-74" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 25px;&quot;&gt;Markdown结果判断有效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#CCFFFF;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="540" y="417.5" width="275" height="62.5" as="geometry" />
