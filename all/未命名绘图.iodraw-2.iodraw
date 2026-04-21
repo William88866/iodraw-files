@@ -49,8 +49,8 @@
         <mxCell id="37" value="结构化片段索引池" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#3b82f6;fontSize=25;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="235" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="40" value="任务检索与预算控制层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="180" width="870" height="320" as="geometry" />
+        <mxCell id="40" value="任务检索与预算控制层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=29;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="230" width="1000" height="260" as="geometry" />
         </mxCell>
         <mxCell id="41" value="查询关键词构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1880" y="300" width="200" height="60" as="geometry" />
