@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gAQzYkJ30QdeT27pBmcQ">
-    <mxGraphModel dx="1516" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="315" y="1315" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="50" value="结构化抽取层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eefbf3;strokeColor=#4ade80;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="700" y="550" width="790" height="190" as="geometry" />
+          <mxGeometry x="700" y="550" width="750" height="190" as="geometry" />
         </mxCell>
         <mxCell id="51" value="章节识别与内容分段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="750" y="620" width="200" height="45" as="geometry" />
