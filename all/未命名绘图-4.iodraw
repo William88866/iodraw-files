@@ -31,7 +31,7 @@
         <mxCell id="30" value="Markdown 路径" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=28;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="235" y="340" width="590" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="Markdown 转换抽取模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="31" value="Markdown 转换抽取模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="260" y="417.5" width="250" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="33" value="回退触发条件判断" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=26;fontStyle=1;" vertex="1" parent="1">
@@ -94,7 +94,7 @@
         <mxCell id="74" value="主解析路径记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ddd6fe;strokeColor=#7c3aed;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gNXPRkG77m3685x8wG2p-74" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Markdown结果判断有效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#CCFFFF;" vertex="1" parent="1">
+        <mxCell id="gNXPRkG77m3685x8wG2p-74" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 25px;&quot;&gt;Markdown结果判断有效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#CCFFFF;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="540" y="417.5" width="275" height="62.5" as="geometry" />
         </mxCell>
       </root>
