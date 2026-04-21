@@ -142,7 +142,7 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-98" value="语法与编码正确性检查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="657.5" y="367.5" width="185" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-99" value="目录结构是否合理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-99" value="目录结构是否完整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="657.5" y="447.5" width="185" height="50" as="geometry" />
         </mxCell>
       </root>
