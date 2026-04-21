@@ -127,7 +127,7 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-99" value="目录结构是否完整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="442.5" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="290" y="585" width="360" height="225" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-110">
@@ -139,7 +139,7 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=16;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
           <mxGeometry x="23.684210526315788" y="60.57692307692308" width="94.73684210526315" height="103.84615384615385" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="advisory&#xa;（告警模式）&#xa;Prioritize Continuity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=14;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="警告：虽不完全但是不影响代码运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=14;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
           <mxGeometry x="156.3157894736842" y="60.57692307692308" width="161.05263157894737" height="51.92307692307693" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="blocking&#xa;（阻断模式）&#xa;Strict Acceptance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
