@@ -1,0 +1,112 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="gAQzYkJ30QdeT27pBmcQ">
+    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="混合 PDF 解析与回退技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=24;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="30" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="面向论文解析稳定性与结构化抽取质量的核心技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#93c5fd;fontSize=15;fontColor=#1e3a8a;" vertex="1" parent="1">
+          <mxGeometry x="930" y="110" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="290" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="PDF 文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="95" y="265" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="论文标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="95" y="360" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="任务标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="95" y="455" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="策略初始化层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eff6ff;strokeColor=#7aa7e8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="320" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="解析策略初始化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=17;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="模式：混合 / 原生" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#93c5fd;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="455" y="375" width="190" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="Markdown 路径" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="780" y="180" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Markdown 转换抽取模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="850" y="245" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="Markdown 结果有效性判定" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="340" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="回退触发条件判断" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="460" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="原生与兜底路径" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="180" width="380" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="原生文本提取模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="245" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="原生提取失败兜底模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#f59e0b;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="330" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="页面切分与文本规范化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="415" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="标题提取模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="500" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="页面文本候选结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#3b82f6;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="575" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="结构化抽取层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eefbf3;strokeColor=#4ade80;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="780" y="600" width="790" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="章节识别与内容分段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="830" y="680" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="结构化信息抽取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="680" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="证据映射与缺失字段检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="680" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="解析质量评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d1fae5;strokeColor=#10b981;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="780" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60" value="主结果选择层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="250" width="420" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="主解析结果选择与质量比较" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fed7aa;strokeColor=#ea580c;fontSize=17;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="310" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="62" value="优先采用高质量 Markdown 结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="405" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63" value="Markdown 无效时回退原生结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="485" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64" value="记录主解析路径与回退原因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="565" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="结构化统一输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f3ff;strokeColor=#a78bfa;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="650" width="420" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="统一页面文本集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="720" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="结构化解析结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="800" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="73" value="解析质量信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="880" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74" value="主解析路径记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ddd6fe;strokeColor=#7c3aed;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="960" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
