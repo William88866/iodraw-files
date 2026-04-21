@@ -142,20 +142,23 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-99" value="目录结构是否完整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="657.5" y="447.5" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TjRwEU3hKkvKrm17aJ6L-102" target="TjRwEU3hKkvKrm17aJ6L-104">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：advisory 与 blocking&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="360" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TjRwEU3hKkvKrm17aJ6L-102" target="TjRwEU3hKkvKrm17aJ6L-103">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-102" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="113.68421052631578" y="750.5769230769231" width="94.73684210526315" height="103.84615384615385" as="geometry" />
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=16;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+          <mxGeometry x="23.684210526315788" y="60.57692307692308" width="94.73684210526315" height="103.84615384615385" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-103" value="advisory&#xa;（告警模式）&#xa;Prioritize Continuity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="246.3157894736842" y="750.5769230769231" width="161.05263157894737" height="51.92307692307693" as="geometry" />
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="advisory&#xa;（告警模式）&#xa;Prioritize Continuity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=14;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+          <mxGeometry x="156.3157894736842" y="60.57692307692308" width="161.05263157894737" height="51.92307692307693" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-104" value="blocking&#xa;（阻断模式）&#xa;Strict Acceptance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="246.3157894736842" y="819.8076923076924" width="161.05263157894737" height="51.92307692307693" as="geometry" />
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="blocking&#xa;（阻断模式）&#xa;Strict Acceptance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+          <mxGeometry x="156.3157894736842" y="129.80769230769232" width="161.05263157894737" height="51.92307692307693" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
