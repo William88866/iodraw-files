@@ -10,7 +10,7 @@
         <mxCell id="3" value="面向代码生成结果的质量把关核心技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#93c5fd;fontSize=15;fontColor=#1e3a8a;" vertex="1" parent="1">
           <mxGeometry x="900" y="115" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="输入对象层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+        <mxCell id="10" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="300" height="430" as="geometry" />
         </mxCell>
         <mxCell id="11" value="已生成项目产物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
