@@ -70,7 +70,7 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-99" value="目录结构是否完整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="442.5" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%; font-size: 25px;&quot;&gt;双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=25;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%; font-size: 26px;&quot;&gt;双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=26;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="210" y="660" width="480" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-110">
@@ -79,8 +79,8 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=21;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="31.57894736842104" y="67.30769230769232" width="126.31578947368416" height="115.38461538461542" as="geometry" />
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=26;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+          <mxGeometry x="31.57894736842104" y="89.99769230769232" width="126.31578947368416" height="115.38461538461542" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="警告：虽不完全但是不影响代码运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=21;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
           <mxGeometry x="208.42" y="67.31" width="214.74" height="72.69" as="geometry" />
