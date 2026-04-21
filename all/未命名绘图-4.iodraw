@@ -55,14 +55,14 @@
         <mxCell id="50" value="结构化抽取层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eefbf3;strokeColor=#4ade80;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="900" y="250" width="270" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="51" value="章节识别与内容分段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="51" value="章节识别与内容分段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="940" y="320" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="52" value="结构化信息抽取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="950" y="380" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="53" value="证据映射与缺失字段检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="930" y="445" width="200" height="45" as="geometry" />
+          <mxGeometry x="930" y="445" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="60" value="主结果选择层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="815" y="570" width="420" height="330" as="geometry" />
