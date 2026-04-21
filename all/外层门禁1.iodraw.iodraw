@@ -1,0 +1,139 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="lahSiDNqXRmtq1bZL9Fr">
+    <mxGraphModel dx="1866" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="外质量门禁系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=45;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="1430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="完整性门" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=28;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="222.5" width="250" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="依赖说明是否存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="645" y="307.5" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="产物与清单是否一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="645" y="377.5" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="是否完整生成代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="645" y="447.5" width="215" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="运行入口门" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=30;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="930" y="225" width="230" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="主入口候选解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="950" y="295" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="入口回退扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="950" y="370" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="确认是否能交付最终代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="950" y="445" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="策略裁决层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="140" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="advisory&lt;br&gt;告警放行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="210" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="blocking&lt;br&gt;阻断失败" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="305" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="73" value="质量裁决中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fed7aa;strokeColor=#ea580c;fontSize=17;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1985" y="400" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-87" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=30;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="220" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-88" value="已生成项目产物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="75" y="300" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-89" value="产物结构清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="75" y="362.5" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-90" value="任务运行配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="75" y="420" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-91" value="过程分析报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="75" y="480" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-96" value="基础可用性门" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=27;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="225" width="240" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-97" value="检查源码是否完整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="370" y="315" width="182.5" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-98" value="代码是否能被正常编译" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="382.5" width="185" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-99" value="目录结构是否完整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="462.5" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%; font-size: 26px;&quot;&gt;双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=26;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="480" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=26;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+          <mxGeometry x="31.57894736842104" y="89.99769230769232" width="126.31578947368416" height="115.38461538461542" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="警告：虽不完全但是不影响代码运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=21;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+          <mxGeometry x="208.42" y="67.31" width="214.74" height="72.69" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="阻断：因代码无法运行而阻断代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=22;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+          <mxGeometry x="208.43" y="144.23" width="214.73" height="85.77" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-111" value="&lt;p style=&quot;line-height: 120%; font-size: 26px;&quot;&gt;关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="620" width="475" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-112" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=23;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-111">
+          <mxGeometry x="31.25" y="90" width="187.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-113" value="入口回退扫描&#xa;入口回退&#xa;子目录脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=25;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-111">
+          <mxGeometry x="256.25" y="90" width="187.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-114" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-111" source="TjRwEU3hKkvKrm17aJ6L-113" target="TjRwEU3hKkvKrm17aJ6L-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="152.77027027027026" y="-91" as="sourcePoint" />
+            <mxPoint x="216.95945945945948" y="-150.0909090909091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-123" value="结果输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f3ff;strokeColor=#a78bfa;fontSize=31;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="222.5" width="260" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-124" value="总体判定结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="292.5" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-125" value="失败检查明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="372.5" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-127" value="结构化质量报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#8b5cf6;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="452.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-131" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="347.5" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-132" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-133" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="350" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-134" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="345" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-139" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="530" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-140" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="530" width="70" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
