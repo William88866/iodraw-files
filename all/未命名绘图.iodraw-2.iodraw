@@ -127,7 +127,7 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-99" value="目录结构是否完整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="442.5" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：advisory 与 blocking&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;1）双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="290" y="585" width="360" height="225" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-110">
