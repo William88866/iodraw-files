@@ -7,21 +7,6 @@
         <mxCell id="2" value="外质量门禁系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=24;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="30" width="520" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="\" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="300" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="artifact_root&lt;br&gt;生成项目目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="95" y="220" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="12" value="engine_manifest.json&lt;br&gt;产物清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="95" y="325" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="target_language / strategy&lt;br&gt;语言与策略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="95" y="430" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="14" value="intermediate reports&lt;br&gt;parse_result / generation_plan / deepcode reports" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="70" y="535" width="240" height="95" as="geometry" />
-        </mxCell>
         <mxCell id="20" value="上下文构建层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eff6ff;strokeColor=#7aa7e8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="340" height="420" as="geometry" />
         </mxCell>
@@ -132,6 +117,21 @@
         </mxCell>
         <mxCell id="87" value="交付端收口 / 预览 / 导出判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ddd6fe;strokeColor=#7c3aed;fontSize=15;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1585" y="1080" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-87" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=30;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="220" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-88" value="已生成项目产物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="95" y="280" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-89" value="产物结构清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="95" y="342.5" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-90" value="任务运行配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="95" y="400" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-91" value="过程分析报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="95" y="460" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
