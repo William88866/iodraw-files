@@ -134,16 +134,16 @@
           <mxGeometry x="75" y="480" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-96" value="基础可用性门" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=27;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="650" y="222.5" width="240" height="320" as="geometry" />
+          <mxGeometry x="630" y="210" width="240" height="320" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-97" value="源码是否完整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="315" width="182.5" height="47.5" as="geometry" />
+          <mxGeometry x="660" y="300" width="182.5" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-98" value="语法与编码正确性检查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="677.5" y="380" width="185" height="57.5" as="geometry" />
+          <mxGeometry x="657.5" y="367.5" width="185" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-99" value="目录结构是否合理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="677.5" y="460" width="185" height="50" as="geometry" />
+          <mxGeometry x="657.5" y="447.5" width="185" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
