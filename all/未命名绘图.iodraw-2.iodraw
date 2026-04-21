@@ -11,16 +11,16 @@
           <mxGeometry x="390" y="150" width="340" height="390" as="geometry" />
         </mxCell>
         <mxCell id="21" value="项目根识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="215" width="180" height="65" as="geometry" />
+          <mxGeometry x="470" y="240" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="22" value="manifest 装载与标准化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="295" width="180" height="65" as="geometry" />
+          <mxGeometry x="470" y="320" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="23" value="中间报告装载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="375" width="180" height="65" as="geometry" />
+          <mxGeometry x="470" y="400" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24" value="语言分派" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="455" width="180" height="65" as="geometry" />
+          <mxGeometry x="470" y="480" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="25" value="统一检查上下文生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#3b82f6;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="860" width="230" height="70" as="geometry" />
