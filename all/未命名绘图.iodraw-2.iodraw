@@ -71,7 +71,7 @@
           <mxGeometry x="367.5" y="442.5" width="185" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%; font-size: 26px;&quot;&gt;双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=26;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="210" y="660" width="480" height="250" as="geometry" />
+          <mxGeometry x="230" y="620" width="480" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-110">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="208.43" y="144.23" width="214.73" height="85.77" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-111" value="&lt;p style=&quot;line-height: 120%; font-size: 26px;&quot;&gt;关键工程优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=16;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="855" y="640" width="475" height="260" as="geometry" />
+          <mxGeometry x="797.5" y="620" width="475" height="260" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-112" value="嵌套项目识别&#xa;产物根目录 + 一级子目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=23;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-111">
           <mxGeometry x="31.25" y="90" width="187.5" height="120" as="geometry" />
