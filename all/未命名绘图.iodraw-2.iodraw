@@ -136,13 +136,13 @@
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=17;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=19;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
           <mxGeometry x="23.684210526315788" y="60.57692307692308" width="94.73684210526315" height="103.84615384615385" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="警告：虽不完全但是不影响代码运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=14;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="警告：虽不完全但是不影响代码运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=17;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
           <mxGeometry x="156.3157894736842" y="60.57692307692308" width="161.05263157894737" height="51.92307692307693" as="geometry" />
         </mxCell>
-        <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="阻断：因代码无法运行而阻断代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=14;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
+        <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="阻断：因代码无法运行而阻断代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=16;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
           <mxGeometry x="156.3157894736842" y="129.80769230769232" width="161.05263157894737" height="51.92307692307693" as="geometry" />
         </mxCell>
       </root>
