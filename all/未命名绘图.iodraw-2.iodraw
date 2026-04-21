@@ -40,7 +40,7 @@
         <mxCell id="40" value="完整性门" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="1150" y="150" width="350" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="41" value="requirements.txt 存在性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="41" value="依赖说明是否存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1215" y="215" width="220" height="65" as="geometry" />
         </mxCell>
         <mxCell id="42" value="requirements.txt 格式校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
