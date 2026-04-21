@@ -128,7 +128,7 @@
           <mxGeometry x="367.5" y="442.5" width="185" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-105" value="&lt;p style=&quot;line-height: 120%; font-size: 23px;&quot;&gt;双策略执行模式：警告与阻断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;dashed=1;fontSize=23;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="290" y="550" width="400" height="260" as="geometry" />
+          <mxGeometry x="290" y="560" width="390" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TjRwEU3hKkvKrm17aJ6L-105" source="TjRwEU3hKkvKrm17aJ6L-108" target="TjRwEU3hKkvKrm17aJ6L-110">
           <mxGeometry relative="1" as="geometry" />
@@ -137,13 +137,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-108" value="策略选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=19;fontStyle=1;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="26.315789473684205" y="70.00000000000001" width="105.26315789473682" height="120.00000000000001" as="geometry" />
+          <mxGeometry x="25.657894736842103" y="67.30769230769232" width="102.63157894736841" height="115.3846153846154" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-109" value="警告：虽不完全但是不影响代码运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff3ea;strokeColor=#8cbfa8;fontSize=17;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="173.68421052631575" y="70.00000000000001" width="178.9473684210526" height="60.00000000000001" as="geometry" />
+          <mxGeometry x="169.34210526315786" y="67.30769230769232" width="174.4736842105263" height="57.6923076923077" as="geometry" />
         </mxCell>
         <mxCell id="TjRwEU3hKkvKrm17aJ6L-110" value="阻断：因代码无法运行而阻断代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe4d6;strokeColor=#e5a37d;fontSize=17;" vertex="1" parent="TjRwEU3hKkvKrm17aJ6L-105">
-          <mxGeometry x="173.68888888888884" y="150.0026666666667" width="178.94444444444443" height="69.55288888888889" as="geometry" />
+          <mxGeometry x="169.34666666666664" y="144.23333333333335" width="174.47083333333333" height="66.87777777777778" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
