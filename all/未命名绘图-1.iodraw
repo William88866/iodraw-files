@@ -29,13 +29,13 @@
           <mxGeometry x="29.09090909090909" y="123.77" width="101.8181818181818" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g_dep" value="&lt;p style=&quot;line-height: 120%; font-size: 19px;&quot;&gt;依赖门禁：&lt;br style=&quot;font-size: 19px;&quot;&gt;依赖声明完整性校验&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#93c5fd;fontSize=19;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="520" y="385" width="160" height="250" as="geometry" />
+          <mxGeometry x="523" y="390" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g_dep_1" value="文件&#xa;扫描" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=15;" parent="g_dep" vertex="1">
           <mxGeometry x="29.090909090909086" y="87" width="101.81818181818181" height="55" as="geometry" />
         </mxCell>
         <mxCell id="g_dep_2" value="依赖声明完整性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=13;" parent="g_dep" vertex="1">
-          <mxGeometry x="29.090909090909086" y="145" width="101.81818181818181" height="55" as="geometry" />
+          <mxGeometry x="32.00090909090909" y="174" width="101.81818181818181" height="55" as="geometry" />
         </mxCell>
         <mxCell id="L4uR_4W4lFajuHVVk__r-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="g_dep" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
