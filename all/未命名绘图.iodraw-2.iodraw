@@ -43,7 +43,7 @@
         <mxCell id="41" value="依赖说明是否存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1215" y="215" width="220" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="42" value="requirements.txt 格式校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="42" value="产物与清单是否一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1215" y="295" width="220" height="65" as="geometry" />
         </mxCell>
         <mxCell id="43" value="manifest 与实际产物一致性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#38bdf8;fontSize=16;" vertex="1" parent="1">
