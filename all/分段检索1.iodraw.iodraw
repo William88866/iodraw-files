@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="分段检索上下文注入技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=24;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="2" value="分段检索上下文注入技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontSize=39;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="30" width="1590" height="70" as="geometry" />
         </mxCell>
         <mxCell id="10" value="输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=30;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
