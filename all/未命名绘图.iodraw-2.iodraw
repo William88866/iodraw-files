@@ -23,7 +23,7 @@
           <mxGeometry x="390" y="220" width="320" height="300" as="geometry" />
         </mxCell>
         <mxCell id="22" value="依据：文档长度阈值&#xa;配置开关&#xa;任务场景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="445" y="440" width="210" height="70" as="geometry" />
+          <mxGeometry x="430" y="390" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="30" value="语义分段与建模层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f0f9ff;strokeColor=#38bdf8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="770" y="180" width="760" height="470" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="1610" y="1030" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yolQQk1XBkqGTOfFP1Wq-65" value="&lt;span style=&quot;font-size: 17px; font-weight: 700;&quot;&gt;分段启用判定与全文回退&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="430" y="285" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="310" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
