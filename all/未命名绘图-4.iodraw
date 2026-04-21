@@ -71,16 +71,16 @@
           <mxGeometry x="1240" y="460" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="60" value="主结果选择层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="890" width="420" height="330" as="geometry" />
+          <mxGeometry x="1010" y="550" width="420" height="330" as="geometry" />
         </mxCell>
         <mxCell id="61" value="主解析结果选择与质量比较" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fed7aa;strokeColor=#ea580c;fontSize=17;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1545" y="950" width="230" height="70" as="geometry" />
+          <mxGeometry x="1105" y="610" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="62" value="优先采用高质量 Markdown 结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1525" y="1045" width="270" height="60" as="geometry" />
+          <mxGeometry x="1085" y="705" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="63" value="Markdown 无效时回退原生结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1525" y="1125" width="270" height="60" as="geometry" />
+          <mxGeometry x="1085" y="785" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64" value="记录主解析路径与回退原因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1525" y="1205" width="270" height="60" as="geometry" />
