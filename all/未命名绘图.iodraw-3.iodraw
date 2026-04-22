@@ -92,7 +92,7 @@
           <mxGeometry x="506" y="944" width="180" height="52" as="geometry" />
         </mxCell>
         <mxCell id="93" value="质量反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcf7e8;strokeColor=#58c98b;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="796" y="944" width="180" height="52" as="geometry" />
+          <mxGeometry x="1216" y="962" width="180" height="52" as="geometry" />
         </mxCell>
         <mxCell id="94" value="可解释、可追溯、可展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcf7e8;strokeColor=#58c98b;fontSize=18;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1467" y="965" width="300" height="52" as="geometry" />
