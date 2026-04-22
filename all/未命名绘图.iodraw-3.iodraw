@@ -44,19 +44,19 @@
           <mxGeometry x="1673" y="341.5" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="60" value="结构化结果生成层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f3efff;strokeColor=#a887ff;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="500" width="420" height="300" as="geometry" />
+          <mxGeometry x="2081" y="137" width="420" height="300" as="geometry" />
         </mxCell>
         <mxCell id="61" value="复现结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="570" width="197" height="46" as="geometry" />
+          <mxGeometry x="2191" y="207" width="197" height="46" as="geometry" />
         </mxCell>
         <mxCell id="62" value="置信度评分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="628" width="200" height="46" as="geometry" />
+          <mxGeometry x="2191" y="265" width="200" height="46" as="geometry" />
         </mxCell>
         <mxCell id="63" value="论文证据 / 代码证据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="686" width="200" height="46" as="geometry" />
+          <mxGeometry x="2191" y="323" width="200" height="46" as="geometry" />
         </mxCell>
         <mxCell id="64" value="总体评价说明" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="744" width="200" height="46" as="geometry" />
+          <mxGeometry x="2191" y="381" width="200" height="46" as="geometry" />
         </mxCell>
         <mxCell id="70" value="故障降级保护层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff1f1;strokeColor=#ff7d7d;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="700" y="760" width="480" height="180" as="geometry" />
@@ -68,19 +68,19 @@
           <mxGeometry x="1005" y="810" width="145" height="82" as="geometry" />
         </mxCell>
         <mxCell id="80" value="结果落盘与复用输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f4f6fb;strokeColor=#8fa3c2;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="420" width="300" height="430" as="geometry" />
+          <mxGeometry x="2510" y="73" width="300" height="430" as="geometry" />
         </mxCell>
         <mxCell id="81" value="写入任务目录中间文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb0c7;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="500" width="180" height="58" as="geometry" />
+          <mxGeometry x="2570" y="153" width="180" height="58" as="geometry" />
         </mxCell>
         <mxCell id="82" value="统一接口查询输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb0c7;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="580" width="180" height="58" as="geometry" />
+          <mxGeometry x="2570" y="233" width="180" height="58" as="geometry" />
         </mxCell>
         <mxCell id="83" value="前端结果卡片展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb0c7;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="660" width="180" height="58" as="geometry" />
+          <mxGeometry x="2570" y="313" width="180" height="58" as="geometry" />
         </mxCell>
         <mxCell id="84" value="报告导出与材料复用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb0c7;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="740" width="180" height="58" as="geometry" />
+          <mxGeometry x="2570" y="393" width="180" height="58" as="geometry" />
         </mxCell>
         <mxCell id="90" value="系统价值层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eefcf4;strokeColor=#7fdaa3;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="980" width="1450" height="145" as="geometry" />
