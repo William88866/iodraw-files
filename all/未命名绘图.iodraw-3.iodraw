@@ -44,28 +44,28 @@
           <mxGeometry x="1673" y="341.5" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="60" value="结构化结果生成层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f3efff;strokeColor=#a887ff;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1144" y="493" width="420" height="300" as="geometry" />
+          <mxGeometry x="963" y="488" width="420" height="300" as="geometry" />
         </mxCell>
         <mxCell id="61" value="复现结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="563" width="197" height="46" as="geometry" />
+          <mxGeometry x="1073" y="558" width="197" height="46" as="geometry" />
         </mxCell>
         <mxCell id="62" value="置信度评分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="621" width="200" height="46" as="geometry" />
+          <mxGeometry x="1073" y="616" width="200" height="46" as="geometry" />
         </mxCell>
         <mxCell id="63" value="论文证据 / 代码证据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="679" width="200" height="46" as="geometry" />
+          <mxGeometry x="1073" y="674" width="200" height="46" as="geometry" />
         </mxCell>
         <mxCell id="64" value="总体评价说明" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="737" width="200" height="46" as="geometry" />
+          <mxGeometry x="1073" y="732" width="200" height="46" as="geometry" />
         </mxCell>
         <mxCell id="70" value="故障降级保护层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff1f1;strokeColor=#ff7d7d;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="-139" width="480" height="180" as="geometry" />
+          <mxGeometry x="1478" y="536" width="480" height="180" as="geometry" />
         </mxCell>
         <mxCell id="71" value="评估异常 / 模型超时" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe3e3;strokeColor=#ff7d7d;fontSize=17;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="-79" width="160" height="62" as="geometry" />
+          <mxGeometry x="1598" y="596" width="160" height="62" as="geometry" />
         </mxCell>
         <mxCell id="72" value="评估结果降级为不可用&#xa;主任务代码继续正常交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8f8;strokeColor=#f2a3a3;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2235" y="-89" width="145" height="82" as="geometry" />
+          <mxGeometry x="1783" y="586" width="145" height="82" as="geometry" />
         </mxCell>
         <mxCell id="80" value="结果落盘与复用输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f4f6fb;strokeColor=#8fa3c2;fontSize=29;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="389" y="506" width="452" height="234" as="geometry" />
