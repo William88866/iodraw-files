@@ -23,19 +23,19 @@
           <mxGeometry x="445" y="375" width="210" height="72" as="geometry" />
         </mxCell>
         <mxCell id="30" value="评估输入整理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#3b82f6;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="250" width="220" height="75" as="geometry" />
+          <mxGeometry x="710" y="245" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="31" value="统一汇总论文解析产物、任务中间文件与最终代码产物，形成完整评估上下文" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="730" y="340" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="40" value="评估提示构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#3b82f6;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="250" width="220" height="75" as="geometry" />
+          <mxGeometry x="980" y="245" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="41" value="围绕方法是否覆盖、流程是否闭环、关键组件是否落地、结果说明是否充分等维度组织提示上下文" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#93c5fd;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1045" y="340" width="290" height="95" as="geometry" />
         </mxCell>
         <mxCell id="50" value="复现评估调用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fed7aa;strokeColor=#ea580c;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="250" width="220" height="75" as="geometry" />
+          <mxGeometry x="1260" y="245" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="51" value="基于论文语义 + 全量代码上下文进行定向复现评估，而非泛化自然语言点评" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1375" y="340" width="290" height="85" as="geometry" />
