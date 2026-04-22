@@ -16,12 +16,6 @@
         <mxCell id="11" value="论文解析结果&#xa;标题 / 任务目标 / 方法描述 / 关键流程 / 实验文本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90" y="285" width="220" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="代码生成产物&#xa;完整代码清单 / 核心文件内容 / 目录结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="90" y="405" width="220" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="任务中间文件&#xa;任务目录 / 中间结果 / 产物整理结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="90" y="525" width="220" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="20" value="后置触发条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=19;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="275" width="240" height="80" as="geometry" />
         </mxCell>
