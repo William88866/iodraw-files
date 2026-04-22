@@ -68,7 +68,7 @@
           <mxGeometry x="2235" y="-89" width="145" height="82" as="geometry" />
         </mxCell>
         <mxCell id="80" value="结果落盘与复用输出层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f4f6fb;strokeColor=#8fa3c2;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="652" y="417" width="705" height="245" as="geometry" />
+          <mxGeometry x="692" y="428" width="452" height="234" as="geometry" />
         </mxCell>
         <mxCell id="81" value="写入任务目录中间文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb0c7;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="712" y="497" width="180" height="58" as="geometry" />
