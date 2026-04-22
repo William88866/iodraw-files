@@ -13,8 +13,8 @@
         <mxCell id="21" value="代码生成完成后&#xa;统一启动复现评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf4ff;strokeColor=#6aa6ff;fontSize=23;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="310" width="190" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="30" value="评估输入整理层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eef7ff;strokeColor=#7bc3ff;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="700" y="220" width="470" height="185" as="geometry" />
+        <mxCell id="30" value="评估输入整理层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eef7ff;strokeColor=#7bc3ff;fontSize=30;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="470" height="147" as="geometry" />
         </mxCell>
         <mxCell id="31" value="汇总论文语义信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dff1ff;strokeColor=#53b5ff;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="760" y="292" width="160" height="58" as="geometry" />
