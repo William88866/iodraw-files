@@ -77,10 +77,10 @@
           <mxGeometry x="165" y="802" width="1721" height="145" as="geometry" />
         </mxCell>
         <mxCell id="91" value="代码交付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcf7e8;strokeColor=#58c98b;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="222" y="862" width="257" height="52" as="geometry" />
+          <mxGeometry x="222" y="862" width="288" height="52" as="geometry" />
         </mxCell>
         <mxCell id="92" value="复现解释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcf7e8;strokeColor=#58c98b;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="562" y="862" width="287" height="52" as="geometry" />
+          <mxGeometry x="562" y="862" width="362" height="52" as="geometry" />
         </mxCell>
         <mxCell id="93" value="质量反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcf7e8;strokeColor=#58c98b;fontSize=18;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1298" y="874" width="180" height="52" as="geometry" />
