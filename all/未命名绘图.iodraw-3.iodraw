@@ -43,13 +43,13 @@
         <mxCell id="52" value="论文证据 + 代码证据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf4;strokeColor=#ffb36b;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1673" y="341.5" width="190" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="60" value="结构化结果生成层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f3efff;strokeColor=#a887ff;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="963" y="488" width="718" height="242" as="geometry" />
+        <mxCell id="60" value="结构化结果生成层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f3efff;strokeColor=#a887ff;fontSize=28;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="963" y="488" width="529" height="242" as="geometry" />
         </mxCell>
         <mxCell id="61" value="复现结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1003" y="560" width="208" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="62" value="置信度评分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="62" value="置信度评分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1246" y="560" width="215" height="46" as="geometry" />
         </mxCell>
         <mxCell id="63" value="论文证据 / 代码证据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f4ff;strokeColor=#9b7cff;fontSize=16;" vertex="1" parent="1">
