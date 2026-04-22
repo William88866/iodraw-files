@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="5I6FSs_RgpxXnlEulxxY">
-    <mxGraphModel dx="1055" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2235" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,9 @@
           <mxGeometry x="121.69" y="400" width="166.62" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EZ7lDiAr4an5RhBml0kH-213" value="故障降级保护层" style="swimlane;startSize=36;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1732" y="503" width="280" height="221" as="geometry" />
+          <mxGeometry x="1732" y="503" width="280" height="221" as="geometry">
+            <mxRectangle x="1732" y="503" width="182" height="37" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EZ7lDiAr4an5RhBml0kH-214" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="EZ7lDiAr4an5RhBml0kH-213" source="EZ7lDiAr4an5RhBml0kH-216" target="EZ7lDiAr4an5RhBml0kH-217">
           <mxGeometry relative="1" as="geometry" />
