@@ -23,16 +23,16 @@
           <mxGeometry x="890" y="292" width="229" height="58" as="geometry" />
         </mxCell>
         <mxCell id="40" value="评估提示构建层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eefcf4;strokeColor=#63d99d;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="205" width="358" height="240" as="geometry" />
+          <mxGeometry x="1285" y="205" width="293" height="240" as="geometry" />
         </mxCell>
         <mxCell id="41" value="方法是否覆盖" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7fff9;strokeColor=#4cd38b;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="270" width="230" height="44" as="geometry" />
+          <mxGeometry x="1315" y="270" width="243" height="44" as="geometry" />
         </mxCell>
         <mxCell id="42" value="流程是否闭环" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7fff9;strokeColor=#4cd38b;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="327" width="230" height="44" as="geometry" />
+          <mxGeometry x="1315" y="327" width="243" height="44" as="geometry" />
         </mxCell>
         <mxCell id="43" value="关键组件是否落地" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7fff9;strokeColor=#4cd38b;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="384" width="230" height="44" as="geometry" />
+          <mxGeometry x="1315" y="384" width="243" height="44" as="geometry" />
         </mxCell>
         <mxCell id="50" value="复现评估执行层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff4ea;strokeColor=#ff9a4d;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="700" y="470" width="480" height="235" as="geometry" />
