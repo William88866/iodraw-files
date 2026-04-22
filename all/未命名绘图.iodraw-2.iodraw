@@ -13,7 +13,7 @@
         <mxCell id="10" value="评估输入层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8fafc;strokeColor=#94a3b8;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="320" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="论文解析结果&#xa;标题 / 任务目标 / 方法描述 / 关键流程 / 实验文本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="11" value="论文输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90" y="285" width="220" height="95" as="geometry" />
         </mxCell>
         <mxCell id="20" value="后置触发条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef6ff;strokeColor=#60a5fa;fontSize=19;fontStyle=1;" vertex="1" parent="1">
