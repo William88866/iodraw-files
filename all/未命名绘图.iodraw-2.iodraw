@@ -65,16 +65,16 @@
           <mxGeometry x="1900" y="1015" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="110" value="核心机制" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff7ed;strokeColor=#fb923c;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
-          <mxGeometry x="430" y="560" width="1050" height="230" as="geometry" />
+          <mxGeometry x="400" y="380" width="1050" height="230" as="geometry" />
         </mxCell>
         <mxCell id="111" value="后置独立评估机制&#xa;先生成、后评估&#xa;不干扰主生成链路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="640" width="220" height="95" as="geometry" />
+          <mxGeometry x="470" y="460" width="220" height="95" as="geometry" />
         </mxCell>
         <mxCell id="112" value="结构化判定机制&#xa;统一字段口径&#xa;结论稳定、便于展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="845" y="640" width="220" height="95" as="geometry" />
+          <mxGeometry x="815" y="460" width="220" height="95" as="geometry" />
         </mxCell>
         <mxCell id="113" value="证据绑定机制&#xa;论文证据 + 代码证据&#xa;先给依据、后下结论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#fb923c;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="640" width="220" height="95" as="geometry" />
+          <mxGeometry x="1160" y="460" width="220" height="95" as="geometry" />
         </mxCell>
         <mxCell id="120" value="系统价值层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#ecfdf5;strokeColor=#34d399;fontSize=20;fontStyle=1;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
           <mxGeometry x="430" y="1040" width="1240" height="120" as="geometry" />
