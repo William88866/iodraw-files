@@ -17,13 +17,13 @@
           <mxGeometry x="120" y="810" width="190" height="262.5" as="geometry" />
         </mxCell>
         <mxCell id="n_decision1" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;扫描得分 ≥ 3 ?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="540" y="520" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n_yes1" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;直接判定「可复现」&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="740" y="505" width="203.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n_decision2" value="&lt;b&gt;LLM是否已配置?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="530" y="260" width="150" height="80" as="geometry" />
+          <mxGeometry x="530" y="260" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n_llm_yes" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;第三步：LLM深度研判&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;align=left;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="740" y="235" width="203.5" height="90" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="157.5" y="570" width="265" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-28" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;同步计算实验章节完整度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="115" y="620" width="265" height="40" as="geometry" />
+          <mxGeometry x="157.5" y="620" width="265" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
