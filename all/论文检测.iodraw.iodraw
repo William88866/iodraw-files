@@ -94,7 +94,7 @@
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-2" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;提取元数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sCmXNv5jiIafK8Ui1vAs-3" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;摘要前800字符为快速信号源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
