@@ -11,7 +11,7 @@
           <mxGeometry x="210" y="160" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="n_step2" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;第二步：启发式信号分组扫描&lt;/b&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="565" y="160" width="315" height="240" as="geometry" />
+          <mxGeometry x="202.5" y="420" width="315" height="240" as="geometry" />
         </mxCell>
         <mxCell id="n_signal" value="&lt;b&gt;五组检测信号&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;① 算法/伪代码/复杂度 (w=1.0)&lt;br&gt;② 实现/源代码/开源仓库 (w=1.1)&lt;br&gt;③ 实验/基准/数据集/指标 (w=1.0)&lt;br&gt;④ ML系统/训练/推理 (w=0.9)&lt;br&gt;⑤ 复现/可复现/补充材料 (w=0.8)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;dashed=1;align=left;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="970" y="202.5" width="210" height="125" as="geometry" />
@@ -125,16 +125,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-25" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;正则表达式模式匹配全文&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="585" y="200" width="265" height="40" as="geometry" />
+          <mxGeometry x="227.5" y="460" width="265" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-26" value="&lt;span style=&quot;font-size: 19px; text-align: left;&quot;&gt;每组信号独立权重计分&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="585" y="250" width="265" height="40" as="geometry" />
+          <mxGeometry x="227.5" y="510" width="265" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-27" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;检测负面信号综述/纯理论/无实验等&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="585" y="300" width="265" height="40" as="geometry" />
+          <mxGeometry x="227.5" y="560" width="265" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-28" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;同步计算实验章节完整度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="585" y="350" width="265" height="40" as="geometry" />
+          <mxGeometry x="227.5" y="610" width="265" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
