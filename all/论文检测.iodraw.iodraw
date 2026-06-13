@@ -25,8 +25,8 @@
         <mxCell id="n_decision2" value="&lt;b&gt;LLM是否已配置?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="500" y="350" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n_llm_yes" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;第三步：LLM深度研判&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="567" y="180" width="163" height="50" as="geometry" />
+        <mxCell id="n_llm_yes" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;第三步：LLM深度研判&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="567" y="180" width="213" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n_llm_no" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;启发式结果输出&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="700" y="465" width="220" height="45" as="geometry" />
