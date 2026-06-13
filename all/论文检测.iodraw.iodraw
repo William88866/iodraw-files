@@ -32,7 +32,7 @@
           <mxGeometry x="740" y="370" width="203.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n_final" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;第四步：报告聚合与前端渲染&lt;/b&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;align=center;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="180" width="270" height="300" as="geometry" />
+          <mxGeometry x="1010" y="180" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="n_end" value="&lt;b&gt;检测完成&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="665" y="1430" width="150" height="45" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="1037.5" y="235" width="219" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;每份报告标注免责声明&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1037.5" y="370" width="200" height="50" as="geometry" />
+          <mxGeometry x="1037.5" y="370" width="212.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;统一输出结构化检测报告&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1037.5" y="295" width="215" height="50" as="geometry" />
