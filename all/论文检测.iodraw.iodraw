@@ -38,7 +38,7 @@
           <mxGeometry x="740" y="310" width="203.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n_final" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;第四步：报告聚合与前端渲染&lt;/b&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;align=center;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="187" width="269" height="293" as="geometry" />
+          <mxGeometry x="1020" y="200" width="269" height="280" as="geometry" />
         </mxCell>
         <mxCell id="n_end" value="&lt;b style=&quot;font-size: 33px;&quot;&gt;检测完成&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=33;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="1047.5" y="610" width="202.5" height="82.5" as="geometry" />
