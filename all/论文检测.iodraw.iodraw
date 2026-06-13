@@ -35,7 +35,7 @@
           <mxGeometry x="1010" y="180" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="n_end" value="&lt;b&gt;检测完成&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="665" y="1430" width="150" height="45" as="geometry" />
+          <mxGeometry x="1067.5" y="547.5" width="202.5" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-1" value="&lt;font style=&quot;font-size: 51px;&quot;&gt;论文诚信检测系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=51;" vertex="1" parent="1">
           <mxGeometry x="70" y="60" width="1190" height="80" as="geometry" />
