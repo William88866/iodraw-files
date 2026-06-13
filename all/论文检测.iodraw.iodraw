@@ -46,22 +46,6 @@
         <mxCell id="e_d2_no" value="&lt;b&gt;否&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;fontSize=12;strokeColor=#b85450;exitX=0;exitY=0.5;entryX=0.5;entryY=0;" edge="1" parent="1" source="n_decision2" target="n_llm_no">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_yes1_final" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1" source="n_yes1" target="n_final">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="1170" />
-              <mxPoint x="240" y="1227" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e_llm_no_final" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1" source="n_llm_no" target="n_final">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="1170" />
-              <mxPoint x="240" y="1227" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e_llm_yes_final" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1" source="n_llm_yes" target="n_final">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
