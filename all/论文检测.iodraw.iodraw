@@ -17,7 +17,7 @@
           <mxGeometry x="960" y="900" width="210" height="125" as="geometry" />
         </mxCell>
         <mxCell id="n_decision1" value="&lt;b&gt;扫描得分 ≥ 3 ?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1050" width="220" height="80" as="geometry" />
+          <mxGeometry x="607" y="450" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n_yes1" value="&lt;b&gt;直接判定「可复现」&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;assessment_mode = scan&lt;br&gt;confidence = 0.5 + weighted×0.07&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="240" y="1125" width="220" height="60" as="geometry" />
