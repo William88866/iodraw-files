@@ -85,7 +85,7 @@
         <mxCell id="e_final_end" style="edgeStyle=none;endArrow=classic;html=1;" edge="1" parent="1" source="n_final" target="n_end">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-1" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;论文诚信检测系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sCmXNv5jiIafK8Ui1vAs-1" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;论文诚信检测系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=31;" vertex="1" parent="1">
           <mxGeometry x="70" y="60" width="1040" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-2" value="&lt;span style=&quot;font-size: 22px; text-align: left;&quot;&gt;提取元数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=22;" vertex="1" parent="1">
