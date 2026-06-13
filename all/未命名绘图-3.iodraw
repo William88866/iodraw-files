@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ek8ErpltgPUSbnf6Lsie">
-    <mxGraphModel dx="1213" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3229" dy="1693" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="20" y="70" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s1" value="人工主导时代" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4f87e8;strokeColor=#4f87e8;fontColor=#ffffff;fontSize=16;" parent="status_wrap" vertex="1">
-          <mxGeometry x="20" y="20" width="180" height="40" as="geometry" />
+          <mxGeometry x="20" y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s3" value="平台化时代" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4f87e8;strokeColor=#4f87e8;fontColor=#ffffff;fontSize=16;" parent="status_wrap" vertex="1">
           <mxGeometry x="20" y="120" width="180" height="40" as="geometry" />
@@ -175,26 +175,32 @@
         <mxCell id="ev4" value="loss" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4f87e8;strokeColor=#4f87e8;fontColor=#ffffff;fontSize=16;" parent="eval_wrap" vertex="1">
           <mxGeometry x="20" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t3" value="三大核心技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff200;strokeColor=none;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="t3" value="四大核心技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff200;strokeColor=none;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="184" y="786" width="220" height="36" as="geometry" />
         </mxCell>
         <mxCell id="core_wrap" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#eef4ff;strokeColor=#4c82ff;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="180" y="849" width="920" height="146" as="geometry" />
+          <mxGeometry x="128" y="850" width="1048" height="146" as="geometry" />
         </mxCell>
         <mxCell id="core1" value="混合式PDF解析&#xa;与回退技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f87e8;strokeColor=#4f87e8;fontColor=#ffffff;fontSize=18;fontStyle=1;" parent="core_wrap" vertex="1">
-          <mxGeometry x="90" y="35.230000000000004" width="180" height="75.55" as="geometry" />
+          <mxGeometry x="40.044734389561974" y="35.23" width="141.62162162162164" height="75.55" as="geometry" />
         </mxCell>
         <mxCell id="core2" value="分段检索上下文&#xa;注入技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f87e8;strokeColor=#4f87e8;fontColor=#ffffff;fontSize=18;fontStyle=1;" parent="core_wrap" vertex="1">
-          <mxGeometry x="370" y="37.230000000000004" width="180" height="71.55" as="geometry" />
+          <mxGeometry x="297.89375582479033" y="37" width="145.52842497670082" height="71.55" as="geometry" />
         </mxCell>
         <mxCell id="core3" value="外层质量门&#xa;禁技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f87e8;strokeColor=#4f87e8;fontColor=#ffffff;fontSize=18;fontStyle=1;" parent="core_wrap" vertex="1">
-          <mxGeometry x="644" y="35.230000000000004" width="180" height="67.55" as="geometry" />
+          <mxGeometry x="566.4864864864866" y="41" width="145.52842497670082" height="67.55" as="geometry" />
         </mxCell>
         <mxCell id="e04Y0Yivl6M8BS0p8UBV-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="core_wrap" vertex="1">
-          <mxGeometry x="272" y="43" width="100" height="60" as="geometry" />
+          <mxGeometry x="181.6710271891082" y="43.01" width="113.91304347826086" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e04Y0Yivl6M8BS0p8UBV-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="core_wrap" vertex="1">
-          <mxGeometry x="550" y="42.77999999999997" width="100" height="60" as="geometry" />
+          <mxGeometry x="450.25653875764806" y="42.77999999999997" width="113.91304347826086" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkrIVRGVOnYrN_ioXeN-1" value="论文代码复现评估技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f87e8;strokeColor=#4f87e8;fontColor=#ffffff;fontSize=18;fontStyle=1;" vertex="1" parent="core_wrap">
+          <mxGeometry x="837.0326188257222" y="41" width="137.71481826654238" height="67.55" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkrIVRGVOnYrN_ioXeN-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="core_wrap">
+          <mxGeometry x="714.9424660642651" y="42.77999999999997" width="113.91304347826086" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t4" value="前后端技术栈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff200;strokeColor=none;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="45" y="1018" width="220" height="36" as="geometry" />
