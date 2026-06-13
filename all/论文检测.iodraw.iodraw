@@ -136,7 +136,7 @@
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-28" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;同步计算实验章节完整度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="670" width="265" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;融合启发式扫描 + LLM研判结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sCmXNv5jiIafK8Ui1vAs-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;融合式扫描 + LLM结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1030" y="510" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-30" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;每份报告标注免责声明&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -145,7 +145,7 @@
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-31" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;前端论文检测页面渲染可视化风险卡片&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="640" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-32" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;统一输出结构化检测报告&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="sCmXNv5jiIafK8Ui1vAs-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;统一输出结构化检测报告&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1030" y="570" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
