@@ -59,7 +59,7 @@
           <mxGeometry x="578" y="195.5" width="280" height="234.5" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-59" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分析实验元素&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="588" y="247.5" width="257" height="60" as="geometry" />
+          <mxGeometry x="589" y="256" width="257" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-60" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;抽取报告指标&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="588" y="336.5" width="258" height="60" as="geometry" />
