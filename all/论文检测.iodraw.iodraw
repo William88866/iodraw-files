@@ -19,17 +19,11 @@
         <mxCell id="n_decision1" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;扫描得分 ≥ 3&amp;nbsp;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="545" y="550" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n_yes1" target="n_llm_no" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="n_yes1" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;直接判定「可复现」&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="740" y="460" width="203.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n_decision2" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;LLM是否已配置&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="550" y="260" width="150" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n_llm_yes" target="n_llm_no" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n_llm_yes" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;第三步：LLM深度研判&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="740" y="170" width="203.5" height="90" as="geometry" />
@@ -159,30 +153,6 @@
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="565" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n_decision1" target="n_yes1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="530" as="sourcePoint" />
-            <mxPoint x="720" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="842" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="n_decision1" target="n_decision2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="390" as="sourcePoint" />
-            <mxPoint x="740" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="n_decision2" target="n_llm_yes" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="390" as="sourcePoint" />
-            <mxPoint x="740" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="625" y="215" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-44" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="930" y="310" width="80" height="70" as="geometry" />
