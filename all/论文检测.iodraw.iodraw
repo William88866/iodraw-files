@@ -115,7 +115,7 @@
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-26" value="&lt;span style=&quot;font-size: 19px; text-align: left;&quot;&gt;每组信号独立权重计分&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="570" width="265" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-27" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;检测负面信号综述/纯理论/无实验等&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="sCmXNv5jiIafK8Ui1vAs-27" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;生成诚信评分&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="620" width="265" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-28" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;同步计算实验章节完整度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
