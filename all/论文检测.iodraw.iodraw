@@ -145,7 +145,7 @@
         <mxCell id="RPhtVczOkJwkltiwLTlA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="571" y="475.5" width="324" height="229" as="geometry" />
         </mxCell>
-        <mxCell id="RPhtVczOkJwkltiwLTlA-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;第三步：论文指标抽取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="RPhtVczOkJwkltiwLTlA-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;第三步：论文指标抽取&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="611" y="159" width="325" height="231" as="geometry" />
         </mxCell>
       </root>
