@@ -157,8 +157,11 @@
         <mxCell id="RPhtVczOkJwkltiwLTlA-5" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;收集前三步指标&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="613" y="219" width="280" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="RPhtVczOkJwkltiwLTlA-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="RPhtVczOkJwkltiwLTlA-7" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;复现运行验证&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="613" y="279" width="281" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhtVczOkJwkltiwLTlA-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="321" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
