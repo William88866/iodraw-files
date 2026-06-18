@@ -53,25 +53,25 @@
           <mxGeometry x="160" y="271" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-57" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;第四步：复现运行与指标采集&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="593" y="179" width="346" height="251" as="geometry" />
+          <mxGeometry x="616" y="599" width="346" height="251" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-58" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;第三步：论文指标抽取&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="980" y="243" width="325" height="231" as="geometry" />
+          <mxGeometry x="559" y="195.5" width="325" height="231" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-59" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分析实验元素&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1009" y="295" width="257" height="60" as="geometry" />
+          <mxGeometry x="588" y="247.5" width="257" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-60" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;抽取报告指标&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1009" y="384" width="258" height="60" as="geometry" />
+          <mxGeometry x="588" y="336.5" width="258" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-61" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;运行生成项目&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="623" y="229" width="280" height="46" as="geometry" />
+          <mxGeometry x="646" y="649" width="280" height="46" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-62" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;采集运行指标&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="623" y="289" width="281" height="47" as="geometry" />
+          <mxGeometry x="646" y="709" width="281" height="47" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-63" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;测试检测指标完成度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="623" y="349" width="278" height="51" as="geometry" />
+          <mxGeometry x="646" y="769" width="278" height="51" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-66" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;测试数据输入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1366" y="254" width="105" height="191" as="geometry" />
