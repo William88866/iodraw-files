@@ -124,8 +124,8 @@
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-29" value="各类指标比较" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1047.5" y="255" width="225.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sCmXNv5jiIafK8Ui1vAs-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;每份报告标注免责声明&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1047.5" y="390" width="212.5" height="50" as="geometry" />
+        <mxCell id="sCmXNv5jiIafK8Ui1vAs-30" value="进行综合评分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1047.5" y="390" width="230.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCmXNv5jiIafK8Ui1vAs-32" value="判定指标完成情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1045" y="325" width="215" height="50" as="geometry" />
