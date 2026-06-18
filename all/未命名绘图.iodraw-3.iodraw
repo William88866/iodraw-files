@@ -10,7 +10,7 @@
         <mxCell id="5NcVaWr7HleiRN8YD9vH-37" value="&lt;b&gt;论文输入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="66" y="204" width="94" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="5NcVaWr7HleiRN8YD9vH-38" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;第一步：论文解析与预扫描&lt;/b&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;align=center;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="5NcVaWr7HleiRN8YD9vH-38" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;第一步：验证输入整理&lt;/b&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;align=center;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="220" y="191" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-39" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;第二步：文本与引用完整性检测&lt;/b&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=22;align=center;spacingLeft=10;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
