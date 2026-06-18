@@ -17,7 +17,7 @@
           <mxGeometry x="85" y="527" width="400" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-40" value="&lt;b style=&quot;font-size: 23px;&quot;&gt;第四步：交叉验证与评分聚合&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;align=center;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="196" width="298" height="301" as="geometry" />
+          <mxGeometry x="1103" y="675" width="298" height="301" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-43" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;抽取论文信息&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="242" y="346" width="250" height="40" as="geometry" />
@@ -41,13 +41,13 @@
           <mxGeometry x="152.5" y="717" width="265" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-50" value="各类指标比较" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1043" y="271" width="229.5" height="50" as="geometry" />
+          <mxGeometry x="1141" y="750" width="229.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-51" value="进行综合评分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1057.5" y="400" width="230.5" height="50" as="geometry" />
+          <mxGeometry x="1155.5" y="879" width="230.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-52" value="判定指标完成情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="335" width="233" height="50" as="geometry" />
+          <mxGeometry x="1153" y="814" width="233" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-53" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="271" width="80" height="50" as="geometry" />
@@ -56,13 +56,13 @@
           <mxGeometry x="593" y="179" width="346" height="251" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-58" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;第三步：论文指标抽取&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="549" y="526" width="325" height="231" as="geometry" />
+          <mxGeometry x="980" y="243" width="325" height="231" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-59" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分析实验元素&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="578" y="578" width="257" height="60" as="geometry" />
+          <mxGeometry x="1009" y="295" width="257" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-60" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;抽取报告指标&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="578" y="667" width="258" height="60" as="geometry" />
+          <mxGeometry x="1009" y="384" width="258" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-61" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;运行生成项目&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="623" y="229" width="280" height="46" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="623" y="349" width="278" height="51" as="geometry" />
         </mxCell>
         <mxCell id="5NcVaWr7HleiRN8YD9vH-66" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;测试数据输入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="266" width="105" height="191" as="geometry" />
+          <mxGeometry x="1366" y="254" width="105" height="191" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
